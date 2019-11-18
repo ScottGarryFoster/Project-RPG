@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: d86b5ba78c43d5648a82d987b3140063
+timeCreated: 1491737900
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pineapple Cut B_8bit_45
+    21300002: Pineapple Cut B_8bit_135
+    21300004: Pineapple Cut B_8bit_225
+    21300006: Pineapple Cut B_8bit_315
+    21300008: Pineapple Cut B_8bit_0
+    21300010: Pineapple Cut B_8bit_90
+    21300012: Pineapple Cut B_8bit_180
+    21300014: Pineapple Cut B_8bit_270
+    21300016: Pineapple Cut B_8bit_23
+    21300018: Pineapple Cut B_8bit_113
+    21300020: Pineapple Cut B_8bit_203
+    21300022: Pineapple Cut B_8bit_293
+    21300024: Pineapple Cut B_8bit_68
+    21300026: Pineapple Cut B_8bit_158
+    21300028: Pineapple Cut B_8bit_248
+    21300030: Pineapple Cut B_8bit_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pineapple Cut B_8bit_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 11
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5909091, y: 0.14910217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_8bit_135
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1
+        width: 11
+        height: 22
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.17135873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_8bit_225
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 11
+        height: 22
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.10704628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_8bit_315
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 11
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5909091, y: 0.04332129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_8bit_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 24
+        width: 11
+        height: 22
+      alignment: 9
+      pivot: {x: 0.56060606, y: 0.1022872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_8bit_90
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 24
+        width: 11
+        height: 22
+      alignment: 9
+      pivot: {x: 0.43181798, y: 0.15593012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_8bit_180
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 24
+        width: 11
+        height: 22
+      alignment: 9
+      pivot: {x: 0.43939394, y: 0.12618428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_8bit_270
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 24
+        width: 11
+        height: 22
+      alignment: 9
+      pivot: {x: 0.568182, y: 0.05263871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_8bit_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 11
+        height: 22
+      alignment: 9
+      pivot: {x: 0.57987994, y: 0.13250469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_8bit_113
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 47
+        width: 11
+        height: 22
+      alignment: 9
+      pivot: {x: 0.4203545, y: 0.17095603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_8bit_203
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 47
+        width: 11
+        height: 22
+      alignment: 9
+      pivot: {x: 0.41124445, y: 0.11178888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_8bit_293
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 47
+        width: 11
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5796455, y: 0.04959911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_8bit_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 70
+        width: 11
+        height: 22
+      alignment: 9
+      pivot: {x: 0.51370525, y: 0.15130796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_8bit_158
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 70
+        width: 11
+        height: 22
+      alignment: 9
+      pivot: {x: 0.42035452, y: 0.13772762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_8bit_248
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 70
+        width: 11
+        height: 22
+      alignment: 9
+      pivot: {x: 0.48629472, y: 0.093842804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_8bit_338
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 70
+        width: 11
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5796455, y: 0.06598716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 61ac7c875189ad940b9d9dfa3abe5c65
+timeCreated: 1491737886
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fence Stone 5_8bit_45
+    21300002: Fence Stone 5_8bit_135
+    21300004: Fence Stone 5_8bit_225
+    21300006: Fence Stone 5_8bit_315
+    21300008: Fence Stone 5_8bit_0
+    21300010: Fence Stone 5_8bit_90
+    21300012: Fence Stone 5_8bit_180
+    21300014: Fence Stone 5_8bit_270
+    21300016: Fence Stone 5_8bit_23
+    21300018: Fence Stone 5_8bit_113
+    21300020: Fence Stone 5_8bit_203
+    21300022: Fence Stone 5_8bit_293
+    21300024: Fence Stone 5_8bit_68
+    21300026: Fence Stone 5_8bit_158
+    21300028: Fence Stone 5_8bit_248
+    21300030: Fence Stone 5_8bit_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fence Stone 5_8bit_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.7692308, y: 0.3730626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 5_8bit_135
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.18269235, y: 0.34201655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 5_8bit_225
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.2307692, y: 0.09364804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 5_8bit_315
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.8173077, y: 0.124694094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 5_8bit_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 18
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.82307696, y: 0.25002274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 5_8bit_90
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 18
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.43268523, y: 0.39109063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 5_8bit_180
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 18
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.17692308, y: 0.20395814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 5_8bit_270
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 18
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5673148, y: 0.073624626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 5_8bit_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.79836, y: 0.31889427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 5_8bit_113
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 35
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.29583454, y: 0.3782796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 5_8bit_203
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 35
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.1767767, y: 0.13718246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 5_8bit_293
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 35
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.7041655, y: 0.087933764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 5_8bit_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 52
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.60950655, y: 0.3953348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 5_8bit_158
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 52
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.1385243, y: 0.27677006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 5_8bit_248
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 52
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.39049342, y: 0.071280204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 5_8bit_338
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 52
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.8336699, y: 0.17930675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

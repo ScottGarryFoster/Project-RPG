@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 565af611ea14473468f9db9dc0edd097
+timeCreated: 1491738046
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DirtGrass Yellow 5_45
+    21300002: DirtGrass Yellow 5_135
+    21300004: DirtGrass Yellow 5_225
+    21300006: DirtGrass Yellow 5_315
+    21300008: DirtGrass Yellow 5_0
+    21300010: DirtGrass Yellow 5_90
+    21300012: DirtGrass Yellow 5_180
+    21300014: DirtGrass Yellow 5_270
+    21300016: DirtGrass Yellow 5_23
+    21300018: DirtGrass Yellow 5_113
+    21300020: DirtGrass Yellow 5_203
+    21300022: DirtGrass Yellow 5_293
+    21300024: DirtGrass Yellow 5_68
+    21300026: DirtGrass Yellow 5_158
+    21300028: DirtGrass Yellow 5_248
+    21300030: DirtGrass Yellow 5_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DirtGrass Yellow 5_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2821077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: DirtGrass Yellow 5_135
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.46774197, y: 0.26552275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: DirtGrass Yellow 5_225
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24893782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: DirtGrass Yellow 5_315
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5322581, y: 0.26552278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: DirtGrass Yellow 5_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5221774, y: 0.27685952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: DirtGrass Yellow 5_90
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 106
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.47782257, y: 0.27685952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: DirtGrass Yellow 5_180
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 106
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4778226, y: 0.2512579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: DirtGrass Yellow 5_270
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 106
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5221774, y: 0.25613493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: DirtGrass Yellow 5_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 211
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5124767, y: 0.28316936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: DirtGrass Yellow 5_113
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 211
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4698787, y: 0.27428886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: DirtGrass Yellow 5_203
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 211
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.48752338, y: 0.25284934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: DirtGrass Yellow 5_293
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 211
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5304636, y: 0.25932315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: DirtGrass Yellow 5_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 316
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.48752335, y: 0.2831694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: DirtGrass Yellow 5_158
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 316
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.46953645, y: 0.25932315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: DirtGrass Yellow 5_248
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 316
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5124767, y: 0.2528494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: DirtGrass Yellow 5_338
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 316
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5301213, y: 0.27428886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 012e5ce573828a4489d1cd23c669cbd2
+timeCreated: 1491737874
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Table Simple 2_8bit_45
+    21300002: Table Simple 2_8bit_135
+    21300004: Table Simple 2_8bit_225
+    21300006: Table Simple 2_8bit_315
+    21300008: Table Simple 2_8bit_0
+    21300010: Table Simple 2_8bit_90
+    21300012: Table Simple 2_8bit_180
+    21300014: Table Simple 2_8bit_270
+    21300016: Table Simple 2_8bit_23
+    21300018: Table Simple 2_8bit_113
+    21300020: Table Simple 2_8bit_203
+    21300022: Table Simple 2_8bit_293
+    21300024: Table Simple 2_8bit_68
+    21300026: Table Simple 2_8bit_158
+    21300028: Table Simple 2_8bit_248
+    21300030: Table Simple 2_8bit_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Table Simple 2_8bit_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.37100625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 2_8bit_135
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.3321615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 2_8bit_225
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.31429654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 2_8bit_315
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.3321615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 2_8bit_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.35110703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 2_8bit_90
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 19
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.47031212, y: 0.34142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 2_8bit_180
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 19
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.30940464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 2_8bit_270
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 19
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5296879, y: 0.29701635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 2_8bit_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.51641196, y: 0.35569954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 2_8bit_113
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 37
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.46087077, y: 0.33769727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 2_8bit_203
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 37
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.48358807, y: 0.31167355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 2_8bit_293
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 37
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5371728, y: 0.31434685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 2_8bit_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.48379213, y: 0.3646222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 2_8bit_158
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 55
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.4603781, y: 0.32705465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 2_8bit_248
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 55
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5153975, y: 0.29783562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 2_8bit_338
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 55
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5422634, y: 0.34880677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

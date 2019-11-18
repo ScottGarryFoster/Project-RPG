@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: c81c82e752b1e224fa2e325dbd81bb64
+timeCreated: 1491737898
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FenceDoor Stone_8bit_45
+    21300002: FenceDoor Stone_8bit_135
+    21300004: FenceDoor Stone_8bit_225
+    21300006: FenceDoor Stone_8bit_315
+    21300008: FenceDoor Stone_8bit_0
+    21300010: FenceDoor Stone_8bit_90
+    21300012: FenceDoor Stone_8bit_180
+    21300014: FenceDoor Stone_8bit_270
+    21300016: FenceDoor Stone_8bit_23
+    21300018: FenceDoor Stone_8bit_113
+    21300020: FenceDoor Stone_8bit_203
+    21300022: FenceDoor Stone_8bit_293
+    21300024: FenceDoor Stone_8bit_68
+    21300026: FenceDoor Stone_8bit_158
+    21300028: FenceDoor Stone_8bit_248
+    21300030: FenceDoor Stone_8bit_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FenceDoor Stone_8bit_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23564982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_8bit_135
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.3703704, y: 0.21217963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_8bit_225
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13114539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_8bit_315
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.6296296, y: 0.21217965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_8bit_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.57407403, y: 0.19027187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_8bit_90
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 13
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.27779335, y: 0.24765328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_8bit_180
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 13
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.4259259, y: 0.10842945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_8bit_270
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 13
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.72220665, y: 0.18097462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_8bit_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 25
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5433916, y: 0.25055933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_8bit_113
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 25
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.34650138, y: 0.22538814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_8bit_203
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 25
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.45118448, y: 0.16080576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_8bit_293
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 25
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.6279155, y: 0.1883616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_8bit_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.43641886, y: 0.25156987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_8bit_158
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 37
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.39524344, y: 0.15232664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_8bit_248
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 37
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5529843, y: 0.16217986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_8bit_338
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 37
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.6047566, y: 0.19363458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

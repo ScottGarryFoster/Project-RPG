@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 418e083929487dc4485df3cb6b9dc035
+timeCreated: 1491738043
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ice 5_45
+    21300002: Ice 5_135
+    21300004: Ice 5_225
+    21300006: Ice 5_315
+    21300008: Ice 5_0
+    21300010: Ice 5_90
+    21300012: Ice 5_180
+    21300014: Ice 5_270
+    21300016: Ice 5_23
+    21300018: Ice 5_113
+    21300020: Ice 5_203
+    21300022: Ice 5_293
+    21300024: Ice 5_68
+    21300026: Ice 5_158
+    21300028: Ice 5_248
+    21300030: Ice 5_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice 5_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 87
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26423973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ice 5_135
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1
+        width: 87
+        height: 101
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0.23239361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ice 5_225
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1
+        width: 87
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22583666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ice 5_315
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1
+        width: 87
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.24024317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ice 5_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 87
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5237069, y: 0.254655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ice 5_90
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 103
+        width: 87
+        height: 101
+      alignment: 9
+      pivot: {x: 0.47629312, y: 0.254655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ice 5_180
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 103
+        width: 87
+        height: 101
+      alignment: 9
+      pivot: {x: 0.47629312, y: 0.23062773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ice 5_270
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 103
+        width: 87
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5237069, y: 0.23062773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ice 5_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 205
+        width: 87
+        height: 101
+      alignment: 9
+      pivot: {x: 0.51353896, y: 0.26229826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ice 5_113
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 205
+        width: 87
+        height: 101
+      alignment: 9
+      pivot: {x: 0.46769422, y: 0.24385917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ice 5_203
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 205
+        width: 87
+        height: 101
+      alignment: 9
+      pivot: {x: 0.4866185, y: 0.22601658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ice 5_293
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 205
+        width: 87
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5323058, y: 0.23524271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ice 5_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 307
+        width: 87
+        height: 101
+      alignment: 9
+      pivot: {x: 0.48646107, y: 0.26229826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ice 5_158
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 307
+        width: 87
+        height: 101
+      alignment: 9
+      pivot: {x: 0.46769425, y: 0.23082076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ice 5_248
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 307
+        width: 87
+        height: 101
+      alignment: 9
+      pivot: {x: 0.51338154, y: 0.22601663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ice 5_338
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 307
+        width: 87
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5323058, y: 0.24829036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

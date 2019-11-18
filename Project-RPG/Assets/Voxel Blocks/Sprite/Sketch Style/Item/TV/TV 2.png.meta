@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: d1dc2e074a7ecb24997a06a19bff9fe7
+timeCreated: 1491738078
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TV 2_45
+    21300002: TV 2_135
+    21300004: TV 2_225
+    21300006: TV 2_315
+    21300008: TV 2_0
+    21300010: TV 2_90
+    21300012: TV 2_180
+    21300014: TV 2_270
+    21300016: TV 2_23
+    21300018: TV 2_113
+    21300020: TV 2_203
+    21300022: TV 2_293
+    21300024: TV 2_68
+    21300026: TV 2_158
+    21300028: TV 2_248
+    21300030: TV 2_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TV 2_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.47632575, y: 0.24505807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 2_135
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.42897725, y: 0.21375498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 2_225
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5236742, y: 0.18683805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 2_315
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.57102275, y: 0.22598733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.26840663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 2_90
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 80
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4659091, y: 0.21638338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 2_180
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 80
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.46874997, y: 0.22757196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 2_270
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 80
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.53409094, y: 0.18510981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 2_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.50528044, y: 0.26040116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 2_113
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 159
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4524187, y: 0.21185926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 2_203
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 159
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4947196, y: 0.20451748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 2_293
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 159
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.54632914, y: 0.2047663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 2_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 238
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4802912, y: 0.23034106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 2_158
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 238
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.44372737, y: 0.22130881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 2_248
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 238
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5197088, y: 0.18238164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 2_338
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 238
+        width: 66
+        height: 78
+      alignment: 9
+      pivot: {x: 0.55627257, y: 0.24796757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

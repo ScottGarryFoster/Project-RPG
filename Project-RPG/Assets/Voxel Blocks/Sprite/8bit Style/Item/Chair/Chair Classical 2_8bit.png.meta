@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 57e6152d5e794844da90490813c53161
+timeCreated: 1491737885
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Chair Classical 2_8bit_45
+    21300002: Chair Classical 2_8bit_135
+    21300004: Chair Classical 2_8bit_225
+    21300006: Chair Classical 2_8bit_315
+    21300008: Chair Classical 2_8bit_0
+    21300010: Chair Classical 2_8bit_90
+    21300012: Chair Classical 2_8bit_180
+    21300014: Chair Classical 2_8bit_270
+    21300016: Chair Classical 2_8bit_23
+    21300018: Chair Classical 2_8bit_113
+    21300020: Chair Classical 2_8bit_203
+    21300022: Chair Classical 2_8bit_293
+    21300024: Chair Classical 2_8bit_68
+    21300026: Chair Classical 2_8bit_158
+    21300028: Chair Classical 2_8bit_248
+    21300030: Chair Classical 2_8bit_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chair Classical 2_8bit_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.33042273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_8bit_135
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.27444848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_8bit_225
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21847422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_8bit_315
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5833334, y: 0.27444848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_8bit_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5520833, y: 0.32355094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_8bit_90
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 12
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.43749982, y: 0.3171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_8bit_180
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 12
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.44791666, y: 0.20883161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_8bit_270
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5625002, y: 0.2585512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_8bit_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 23
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.53168935, y: 0.32374737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_8bit_113
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 23
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.42699164, y: 0.28996292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_8bit_203
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 23
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.47095144, y: 0.21624914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_8bit_293
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 23
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5730084, y: 0.24494292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_8bit_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.46975893, y: 0.32179686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_8bit_158
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 34
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.42987058, y: 0.24773465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_8bit_248
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 34
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5302411, y: 0.24179806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_8bit_338
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 34
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5765049, y: 0.26917988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

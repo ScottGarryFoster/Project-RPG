@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: f7c3ba4604d778c438ce8b1588b16ba4
+timeCreated: 1491737903
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Chair Household 5_8bit_45
+    21300002: Chair Household 5_8bit_135
+    21300004: Chair Household 5_8bit_225
+    21300006: Chair Household 5_8bit_315
+    21300008: Chair Household 5_8bit_0
+    21300010: Chair Household 5_8bit_90
+    21300012: Chair Household 5_8bit_180
+    21300014: Chair Household 5_8bit_270
+    21300016: Chair Household 5_8bit_23
+    21300018: Chair Household 5_8bit_113
+    21300020: Chair Household 5_8bit_203
+    21300022: Chair Household 5_8bit_293
+    21300024: Chair Household 5_8bit_68
+    21300026: Chair Household 5_8bit_158
+    21300028: Chair Household 5_8bit_248
+    21300030: Chair Household 5_8bit_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chair Household 5_8bit_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.26810127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Household 5_8bit_135
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.4, y: 0.28722072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Household 5_8bit_225
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.24524392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Household 5_8bit_315
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.6, y: 0.20738164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Household 5_8bit_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.57, y: 0.23079878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Household 5_8bit_90
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 15
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.41999972, y: 0.23080036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Household 5_8bit_180
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 15
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.43, y: 0.2880077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Household 5_8bit_270
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 15
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5800003, y: 0.17095862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Household 5_8bit_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 29
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5395988, y: 0.2591206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Household 5_8bit_113
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 29
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.40439987, y: 0.2580971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Household 5_8bit_203
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 29
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.46040115, y: 0.27414295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Household 5_8bit_293
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 29
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5956001, y: 0.18356387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Household 5_8bit_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.46040112, y: 0.2591206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Household 5_8bit_158
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 43
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.40439987, y: 0.2765504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Household 5_8bit_248
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 43
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5395988, y: 0.22655544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Household 5_8bit_338
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 43
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5956001, y: 0.23790647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

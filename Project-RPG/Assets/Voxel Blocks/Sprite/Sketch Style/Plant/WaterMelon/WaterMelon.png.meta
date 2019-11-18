@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 9fb680066ae9cf14d8ab77cf5587f374
+timeCreated: 1491738066
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WaterMelon_45
+    21300002: WaterMelon_135
+    21300004: WaterMelon_225
+    21300006: WaterMelon_315
+    21300008: WaterMelon_0
+    21300010: WaterMelon_90
+    21300012: WaterMelon_180
+    21300014: WaterMelon_270
+    21300016: WaterMelon_23
+    21300018: WaterMelon_113
+    21300020: WaterMelon_203
+    21300022: WaterMelon_293
+    21300024: WaterMelon_68
+    21300026: WaterMelon_158
+    21300028: WaterMelon_248
+    21300030: WaterMelon_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterMelon_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 76
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21374021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon_135
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1
+        width: 76
+        height: 86
+      alignment: 9
+      pivot: {x: 0.46, y: 0.19012591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon_225
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1
+        width: 76
+        height: 86
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.17355545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon_315
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1
+        width: 76
+        height: 86
+      alignment: 9
+      pivot: {x: 0.53999996, y: 0.19012591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 88
+        width: 76
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5271382, y: 0.20727333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon_90
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 88
+        width: 76
+        height: 86
+      alignment: 9
+      pivot: {x: 0.47286186, y: 0.2123761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon_180
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 88
+        width: 76
+        height: 86
+      alignment: 9
+      pivot: {x: 0.47286186, y: 0.18035725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon_270
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 88
+        width: 76
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5271382, y: 0.18035723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 76
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5154974, y: 0.2153769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon_113
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 175
+        width: 76
+        height: 86
+      alignment: 9
+      pivot: {x: 0.46258596, y: 0.20107156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon_203
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 175
+        width: 76
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4845026, y: 0.17840292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon_293
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 175
+        width: 76
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5374141, y: 0.18923236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 262
+        width: 76
+        height: 86
+      alignment: 9
+      pivot: {x: 0.48450258, y: 0.2153769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon_158
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 262
+        width: 76
+        height: 86
+      alignment: 9
+      pivot: {x: 0.46258596, y: 0.18923233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon_248
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 262
+        width: 76
+        height: 86
+      alignment: 9
+      pivot: {x: 0.51549745, y: 0.17840292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon_338
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 262
+        width: 76
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5374141, y: 0.20107158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

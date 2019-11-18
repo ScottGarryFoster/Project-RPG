@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 68127cbe3fb9ceb4ba6d7267675f5591
+timeCreated: 1491738052
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FenceDoorFrame Wood_45
+    21300002: FenceDoorFrame Wood_135
+    21300004: FenceDoorFrame Wood_225
+    21300006: FenceDoorFrame Wood_315
+    21300008: FenceDoorFrame Wood_0
+    21300010: FenceDoorFrame Wood_90
+    21300012: FenceDoorFrame Wood_180
+    21300014: FenceDoorFrame Wood_270
+    21300016: FenceDoorFrame Wood_23
+    21300018: FenceDoorFrame Wood_113
+    21300020: FenceDoorFrame Wood_203
+    21300022: FenceDoorFrame Wood_293
+    21300024: FenceDoorFrame Wood_68
+    21300026: FenceDoorFrame Wood_158
+    21300028: FenceDoorFrame Wood_248
+    21300030: FenceDoorFrame Wood_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FenceDoorFrame Wood_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3093122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoorFrame Wood_135
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.45346794, y: 0.2950258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoorFrame Wood_225
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24939501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoorFrame Wood_315
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.54653203, y: 0.26041925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoorFrame Wood_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5307836, y: 0.2774448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoorFrame Wood_90
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 77
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.46268657, y: 0.30569288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoorFrame Wood_180
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 77
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.46921638, y: 0.25757578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoorFrame Wood_270
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 77
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.53731346, y: 0.25119397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoorFrame Wood_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 153
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5175775, y: 0.30521655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoorFrame Wood_113
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 153
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.45245558, y: 0.30216268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoorFrame Wood_203
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 153
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4821561, y: 0.2538868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoorFrame Wood_293
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 153
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5475444, y: 0.25584653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoorFrame Wood_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 229
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.48083872, y: 0.3083794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoorFrame Wood_158
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 229
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.45692107, y: 0.2882291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoorFrame Wood_248
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 229
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5191612, y: 0.24972989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoorFrame Wood_338
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 229
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.54307896, y: 0.27072668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

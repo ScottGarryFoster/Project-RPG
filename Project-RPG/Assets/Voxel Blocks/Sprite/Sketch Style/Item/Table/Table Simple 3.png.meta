@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 505447736a164ad4aa8269c2e714a649
+timeCreated: 1491738046
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Table Simple 3_45
+    21300002: Table Simple 3_135
+    21300004: Table Simple 3_225
+    21300006: Table Simple 3_315
+    21300008: Table Simple 3_0
+    21300010: Table Simple 3_90
+    21300012: Table Simple 3_180
+    21300014: Table Simple 3_270
+    21300016: Table Simple 3_23
+    21300018: Table Simple 3_113
+    21300020: Table Simple 3_203
+    21300022: Table Simple 3_293
+    21300024: Table Simple 3_68
+    21300026: Table Simple 3_158
+    21300028: Table Simple 3_248
+    21300030: Table Simple 3_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Table Simple 3_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 73
+        height: 60
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.36111674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 3_135
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 73
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4575995, y: 0.33356014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 3_225
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1
+        width: 73
+        height: 60
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.3000593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 3_315
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1
+        width: 73
+        height: 60
+      alignment: 9
+      pivot: {x: 0.54240054, y: 0.33356014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 3_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 62
+        width: 73
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5291096, y: 0.35234782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 3_90
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 62
+        width: 73
+        height: 60
+      alignment: 9
+      pivot: {x: 0.47174656, y: 0.3447902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 3_180
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 62
+        width: 73
+        height: 60
+      alignment: 9
+      pivot: {x: 0.47089043, y: 0.31099296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 3_270
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 62
+        width: 73
+        height: 60
+      alignment: 9
+      pivot: {x: 0.52825344, y: 0.30131856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 3_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 73
+        height: 60
+      alignment: 9
+      pivot: {x: 0.51678663, y: 0.35569954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 3_113
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 123
+        width: 73
+        height: 60
+      alignment: 9
+      pivot: {x: 0.46087077, y: 0.3357651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 3_203
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 123
+        width: 73
+        height: 60
+      alignment: 9
+      pivot: {x: 0.48321337, y: 0.29990315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 3_293
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 123
+        width: 73
+        height: 60
+      alignment: 9
+      pivot: {x: 0.53912926, y: 0.31589395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 3_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 184
+        width: 73
+        height: 60
+      alignment: 9
+      pivot: {x: 0.48401415, y: 0.3524729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 3_158
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 184
+        width: 73
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4601972, y: 0.31930813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 3_248
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 184
+        width: 73
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5162079, y: 0.29542887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 3_338
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 184
+        width: 73
+        height: 60
+      alignment: 9
+      pivot: {x: 0.53980285, y: 0.34203458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

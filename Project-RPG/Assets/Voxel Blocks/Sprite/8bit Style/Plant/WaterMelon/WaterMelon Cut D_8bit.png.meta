@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: baacd74f73e01d54db6b15e2889ac514
+timeCreated: 1491737897
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WaterMelon Cut D_8bit_45
+    21300002: WaterMelon Cut D_8bit_135
+    21300004: WaterMelon Cut D_8bit_225
+    21300006: WaterMelon Cut D_8bit_315
+    21300008: WaterMelon Cut D_8bit_0
+    21300010: WaterMelon Cut D_8bit_90
+    21300012: WaterMelon Cut D_8bit_180
+    21300014: WaterMelon Cut D_8bit_270
+    21300016: WaterMelon Cut D_8bit_23
+    21300018: WaterMelon Cut D_8bit_113
+    21300020: WaterMelon Cut D_8bit_203
+    21300022: WaterMelon Cut D_8bit_293
+    21300024: WaterMelon Cut D_8bit_68
+    21300026: WaterMelon Cut D_8bit_158
+    21300028: WaterMelon Cut D_8bit_248
+    21300030: WaterMelon Cut D_8bit_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterMelon Cut D_8bit_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.2595832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut D_8bit_135
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.33516484, y: 0.18189551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut D_8bit_225
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033694815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut D_8bit_315
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.66483516, y: 0.17882074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut D_8bit_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 24
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5436508, y: 0.21288672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut D_8bit_90
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.45088902, y: 0.20975292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut D_8bit_180
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 24
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.4563492, y: 0.07527814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut D_8bit_270
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 24
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.549111, y: 0.08849707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut D_8bit_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.52285576, y: 0.25322497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut D_8bit_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 47
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.36370596, y: 0.20306002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut D_8bit_203
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 47
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.47538608, y: 0.054869875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut D_8bit_293
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 47
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.6249362, y: 0.13056591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut D_8bit_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 70
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.47596082, y: 0.24505804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut D_8bit_158
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 70
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.3607924, y: 0.1254825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut D_8bit_248
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 70
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.52403915, y: 0.0415263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut D_8bit_338
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 70
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.62849927, y: 0.19661379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: ca8b036e46d2afe4cb0b1fc63e5ed120
+timeCreated: 1491738076
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sofa Simple 1_45
+    21300002: Sofa Simple 1_135
+    21300004: Sofa Simple 1_225
+    21300006: Sofa Simple 1_315
+    21300008: Sofa Simple 1_0
+    21300010: Sofa Simple 1_90
+    21300012: Sofa Simple 1_180
+    21300014: Sofa Simple 1_270
+    21300016: Sofa Simple 1_23
+    21300018: Sofa Simple 1_113
+    21300020: Sofa Simple 1_203
+    21300022: Sofa Simple 1_293
+    21300024: Sofa Simple 1_68
+    21300026: Sofa Simple 1_158
+    21300028: Sofa Simple 1_248
+    21300030: Sofa Simple 1_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sofa Simple 1_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 75
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4793939, y: 0.33080107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Simple 1_135
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1
+        width: 75
+        height: 74
+      alignment: 9
+      pivot: {x: 0.43909094, y: 0.34063214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Simple 1_225
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1
+        width: 75
+        height: 74
+      alignment: 9
+      pivot: {x: 0.52060604, y: 0.316444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Simple 1_315
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1
+        width: 75
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5609091, y: 0.30421293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Simple 1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 76
+        width: 75
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5275, y: 0.31559533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Simple 1_90
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 76
+        width: 75
+        height: 74
+      alignment: 9
+      pivot: {x: 0.47166666, y: 0.31849134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Simple 1_180
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 76
+        width: 75
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4725, y: 0.34568775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Simple 1_270
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 76
+        width: 75
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5283333, y: 0.2881146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Simple 1_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 151
+        width: 75
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5045789, y: 0.32415456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Simple 1_113
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 151
+        width: 75
+        height: 74
+      alignment: 9
+      pivot: {x: 0.44964832, y: 0.3334786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Simple 1_203
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 151
+        width: 75
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4953592, y: 0.33505628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Simple 1_293
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 151
+        width: 75
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5503517, y: 0.29796934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Simple 1_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 226
+        width: 75
+        height: 74
+      alignment: 9
+      pivot: {x: 0.47246173, y: 0.32650712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Simple 1_158
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 226
+        width: 75
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4505437, y: 0.34828857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Simple 1_248
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 226
+        width: 75
+        height: 74
+      alignment: 9
+      pivot: {x: 0.52753824, y: 0.30226472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Simple 1_338
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 226
+        width: 75
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5494563, y: 0.31101164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

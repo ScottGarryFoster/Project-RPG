@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: ba059f86074b1e24cac3e2915109838f
+timeCreated: 1491738071
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Chair Simple 4_45
+    21300002: Chair Simple 4_135
+    21300004: Chair Simple 4_225
+    21300006: Chair Simple 4_315
+    21300008: Chair Simple 4_0
+    21300010: Chair Simple 4_90
+    21300012: Chair Simple 4_180
+    21300014: Chair Simple 4_270
+    21300016: Chair Simple 4_23
+    21300018: Chair Simple 4_113
+    21300020: Chair Simple 4_203
+    21300022: Chair Simple 4_293
+    21300024: Chair Simple 4_68
+    21300026: Chair Simple 4_158
+    21300028: Chair Simple 4_248
+    21300030: Chair Simple 4_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chair Simple 4_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2487768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Simple 4_135
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.3626374, y: 0.2680809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Simple 4_225
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.21721162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Simple 4_315
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6373626, y: 0.19911928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Simple 4_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.58653843, y: 0.23868689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Simple 4_90
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 41
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.41346154, y: 0.23868689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Simple 4_180
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 41
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.41346154, y: 0.272548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Simple 4_270
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 41
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.58653843, y: 0.17907654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Simple 4_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.55586755, y: 0.25245976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Simple 4_113
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 81
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.37031147, y: 0.25823498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Simple 4_203
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 81
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4441326, y: 0.2466767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Simple 4_293
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 81
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6296885, y: 0.18947795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Simple 4_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 121
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.44413242, y: 0.25245976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Simple 4_158
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 121
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.3703114, y: 0.27396983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Simple 4_248
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 121
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5558675, y: 0.19330089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Simple 4_338
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 121
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6296885, y: 0.22637185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

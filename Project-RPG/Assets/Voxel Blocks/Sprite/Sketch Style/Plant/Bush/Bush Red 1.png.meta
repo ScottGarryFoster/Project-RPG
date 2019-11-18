@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 815bbf6837e1b9c438d40f741452eff7
+timeCreated: 1491738059
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bush Red 1_45
+    21300002: Bush Red 1_135
+    21300004: Bush Red 1_225
+    21300006: Bush Red 1_315
+    21300008: Bush Red 1_0
+    21300010: Bush Red 1_90
+    21300012: Bush Red 1_180
+    21300014: Bush Red 1_270
+    21300016: Bush Red 1_23
+    21300018: Bush Red 1_113
+    21300020: Bush Red 1_203
+    21300022: Bush Red 1_293
+    21300024: Bush Red 1_68
+    21300026: Bush Red 1_158
+    21300028: Bush Red 1_248
+    21300030: Bush Red 1_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bush Red 1_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 72
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.2584881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bush Red 1_135
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1
+        width: 72
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4577295, y: 0.22951424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bush Red 1_225
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1
+        width: 72
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20404056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bush Red 1_315
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1
+        width: 72
+        height: 70
+      alignment: 9
+      pivot: {x: 0.54227054, y: 0.22951424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bush Red 1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 72
+        width: 72
+        height: 70
+      alignment: 9
+      pivot: {x: 0.52876985, y: 0.2313709}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bush Red 1_90
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 72
+        width: 72
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47123015, y: 0.2313709}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bush Red 1_180
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 72
+        width: 72
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47123015, y: 0.20048755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bush Red 1_270
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 72
+        width: 72
+        height: 70
+      alignment: 9
+      pivot: {x: 0.52876985, y: 0.20048754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bush Red 1_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 143
+        width: 72
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5165216, y: 0.24991477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bush Red 1_113
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 143
+        width: 72
+        height: 70
+      alignment: 9
+      pivot: {x: 0.46011335, y: 0.2363801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bush Red 1_203
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 143
+        width: 72
+        height: 70
+      alignment: 9
+      pivot: {x: 0.48347843, y: 0.20370449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bush Red 1_293
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 143
+        width: 72
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5393327, y: 0.2172392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bush Red 1_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 214
+        width: 72
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4834784, y: 0.24991477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bush Red 1_158
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 214
+        width: 72
+        height: 70
+      alignment: 9
+      pivot: {x: 0.46066737, y: 0.21723917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bush Red 1_248
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 214
+        width: 72
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5165215, y: 0.20370452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Bush Red 1_338
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 214
+        width: 72
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53988665, y: 0.23638012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

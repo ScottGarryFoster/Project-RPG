@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 13e8ed7563f6de14db7a6fcc5ef98729
+timeCreated: 1491738034
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fence Stone 4_45
+    21300002: Fence Stone 4_135
+    21300004: Fence Stone 4_225
+    21300006: Fence Stone 4_315
+    21300008: Fence Stone 4_0
+    21300010: Fence Stone 4_90
+    21300012: Fence Stone 4_180
+    21300014: Fence Stone 4_270
+    21300016: Fence Stone 4_23
+    21300018: Fence Stone 4_113
+    21300020: Fence Stone 4_203
+    21300022: Fence Stone 4_293
+    21300024: Fence Stone 4_68
+    21300026: Fence Stone 4_158
+    21300028: Fence Stone 4_248
+    21300030: Fence Stone 4_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fence Stone 4_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.7420213, y: 0.37160358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 4_135
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.18882982, y: 0.34020063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 4_225
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.2579787, y: 0.08897732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 4_315
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.8111702, y: 0.12038024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 4_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 60
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.81276596, y: 0.25864264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 4_90
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 60
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.45212767, y: 0.39484593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 4_180
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 60
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.18723404, y: 0.22097203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 4_270
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 60
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.54787236, y: 0.080975235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 4_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 119
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.8163462, y: 0.3251393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 4_113
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 119
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.286664, y: 0.38037822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 4_203
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 119
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.1836538, y: 0.14969341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 4_293
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 119
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.70706147, y: 0.087933764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 4_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 178
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.61105984, y: 0.39713937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 4_158
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 178
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.14621526, y: 0.28446764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 4_248
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 178
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.38894016, y: 0.071280204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Stone 4_338
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 178
+        width: 47
+        height: 58
+      alignment: 9
+      pivot: {x: 0.8614757, y: 0.19036514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

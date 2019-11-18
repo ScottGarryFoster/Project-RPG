@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: b42d908d44868294990843ffa72d7020
+timeCreated: 1491737895
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Table Household 3_8bit_45
+    21300002: Table Household 3_8bit_135
+    21300004: Table Household 3_8bit_225
+    21300006: Table Household 3_8bit_315
+    21300008: Table Household 3_8bit_0
+    21300010: Table Household 3_8bit_90
+    21300012: Table Household 3_8bit_180
+    21300014: Table Household 3_8bit_270
+    21300016: Table Household 3_8bit_23
+    21300018: Table Household 3_8bit_113
+    21300020: Table Household 3_8bit_203
+    21300022: Table Household 3_8bit_293
+    21300024: Table Household 3_8bit_68
+    21300026: Table Household 3_8bit_158
+    21300028: Table Household 3_8bit_248
+    21300030: Table Household 3_8bit_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Table Household 3_8bit_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.38594258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 3_8bit_135
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.4548872, y: 0.36294416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 3_8bit_225
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.3216716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 3_8bit_315
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5451128, y: 0.36294416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 3_8bit_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 18
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.53289473, y: 0.36654517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 3_8bit_90
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.46804482, y: 0.35209307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 3_8bit_180
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 18
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.46710527, y: 0.3112851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 3_8bit_270
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 18
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5319551, y: 0.30392158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 3_8bit_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.51727575, y: 0.38084385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 3_8bit_113
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 35
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.46036035, y: 0.3614305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 3_8bit_203
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 35
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.48272428, y: 0.32372743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 3_8bit_293
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 35
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5396397, y: 0.3373047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 3_8bit_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 52
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.4835807, y: 0.37848997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 3_8bit_158
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 52
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.45829275, y: 0.34045643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 3_8bit_248
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 52
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5173315, y: 0.32024524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 3_8bit_338
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 52
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5444878, y: 0.36411488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

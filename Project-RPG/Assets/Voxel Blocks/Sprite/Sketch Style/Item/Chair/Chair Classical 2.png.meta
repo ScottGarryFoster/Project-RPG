@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 4f139299858f16b409ad7480f45c6812
+timeCreated: 1491738045
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Chair Classical 2_45
+    21300002: Chair Classical 2_135
+    21300004: Chair Classical 2_225
+    21300006: Chair Classical 2_315
+    21300008: Chair Classical 2_0
+    21300010: Chair Classical 2_90
+    21300012: Chair Classical 2_180
+    21300014: Chair Classical 2_270
+    21300016: Chair Classical 2_23
+    21300018: Chair Classical 2_113
+    21300020: Chair Classical 2_203
+    21300022: Chair Classical 2_293
+    21300024: Chair Classical 2_68
+    21300026: Chair Classical 2_158
+    21300028: Chair Classical 2_248
+    21300030: Chair Classical 2_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chair Classical 2_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.31729048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_135
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42017737, y: 0.24938719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_225
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19667257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_315
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.57982266, y: 0.24938719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5518293, y: 0.31954074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_90
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 35
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.44715446, y: 0.32818574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_180
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 35
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.44817072, y: 0.24510512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_270
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 35
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.55284554, y: 0.23985235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.53091645, y: 0.32196704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_113
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 69
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42307413, y: 0.28996292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_203
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 69
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.46908358, y: 0.21338296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_293
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 69
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.57692593, y: 0.24494292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.46813625, y: 0.32179686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_158
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 103
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42349517, y: 0.23669273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_248
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 103
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.53186375, y: 0.21310896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Chair Classical 2_338
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 103
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5746389, y: 0.29016352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

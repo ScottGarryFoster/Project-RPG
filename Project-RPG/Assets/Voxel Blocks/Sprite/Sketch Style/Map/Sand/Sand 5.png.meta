@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: b76a560a1fa1df24c987ca0f49d410f5
+timeCreated: 1491738071
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sand 5_45
+    21300002: Sand 5_135
+    21300004: Sand 5_225
+    21300006: Sand 5_315
+    21300008: Sand 5_0
+    21300010: Sand 5_90
+    21300012: Sand 5_180
+    21300014: Sand 5_270
+    21300016: Sand 5_23
+    21300018: Sand 5_113
+    21300020: Sand 5_203
+    21300022: Sand 5_293
+    21300024: Sand 5_68
+    21300026: Sand 5_158
+    21300028: Sand 5_248
+    21300030: Sand 5_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sand 5_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 87
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24699044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sand 5_135
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1
+        width: 87
+        height: 100
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0.23908754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sand 5_225
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1
+        width: 87
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22309503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sand 5_315
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1
+        width: 87
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.23908754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sand 5_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 102
+        width: 87
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5237069, y: 0.25220153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sand 5_90
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 102
+        width: 87
+        height: 100
+      alignment: 9
+      pivot: {x: 0.47629312, y: 0.25220153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sand 5_180
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 102
+        width: 87
+        height: 100
+      alignment: 9
+      pivot: {x: 0.47629312, y: 0.22793402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sand 5_270
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 102
+        width: 87
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5237069, y: 0.22793402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sand 5_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 203
+        width: 87
+        height: 100
+      alignment: 9
+      pivot: {x: 0.51353896, y: 0.25060952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sand 5_113
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 203
+        width: 87
+        height: 100
+      alignment: 9
+      pivot: {x: 0.46769422, y: 0.24613757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sand 5_203
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 203
+        width: 87
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4866185, y: 0.22327675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sand 5_293
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 203
+        width: 87
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5323058, y: 0.23297831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sand 5_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 304
+        width: 87
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48646107, y: 0.25060952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sand 5_158
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 304
+        width: 87
+        height: 100
+      alignment: 9
+      pivot: {x: 0.46769425, y: 0.2329783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sand 5_248
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 304
+        width: 87
+        height: 100
+      alignment: 9
+      pivot: {x: 0.51338154, y: 0.2232768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sand 5_338
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 304
+        width: 87
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5323058, y: 0.24613759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

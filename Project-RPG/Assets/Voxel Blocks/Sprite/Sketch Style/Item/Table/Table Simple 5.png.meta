@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: e324704e6540cb640aded4557568babb
+timeCreated: 1491738080
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Table Simple 5_45
+    21300002: Table Simple 5_135
+    21300004: Table Simple 5_225
+    21300006: Table Simple 5_315
+    21300008: Table Simple 5_0
+    21300010: Table Simple 5_90
+    21300012: Table Simple 5_180
+    21300014: Table Simple 5_270
+    21300016: Table Simple 5_23
+    21300018: Table Simple 5_113
+    21300020: Table Simple 5_203
+    21300022: Table Simple 5_293
+    21300024: Table Simple 5_68
+    21300026: Table Simple 5_158
+    21300028: Table Simple 5_248
+    21300030: Table Simple 5_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Table Simple 5_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 76
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21373506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 5_135
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1
+        width: 76
+        height: 52
+      alignment: 9
+      pivot: {x: 0.46, y: 0.18435995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 5_225
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1
+        width: 76
+        height: 52
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.14260685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 5_315
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1
+        width: 76
+        height: 52
+      alignment: 9
+      pivot: {x: 0.53999996, y: 0.18435997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 5_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 54
+        width: 76
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5271382, y: 0.22886059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 5_90
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 54
+        width: 76
+        height: 52
+      alignment: 9
+      pivot: {x: 0.47286186, y: 0.22886059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 5_180
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 54
+        width: 76
+        height: 52
+      alignment: 9
+      pivot: {x: 0.47286186, y: 0.18018527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 5_270
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 54
+        width: 76
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5271382, y: 0.18018527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 5_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 107
+        width: 76
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5154974, y: 0.22649994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 5_113
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 107
+        width: 76
+        height: 52
+      alignment: 9
+      pivot: {x: 0.46258596, y: 0.20784153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 5_203
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 107
+        width: 76
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4845026, y: 0.16279607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 5_293
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 107
+        width: 76
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5374141, y: 0.1750836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 5_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 160
+        width: 76
+        height: 52
+      alignment: 9
+      pivot: {x: 0.48450258, y: 0.22649994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 5_158
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 160
+        width: 76
+        height: 52
+      alignment: 9
+      pivot: {x: 0.46258596, y: 0.1750836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 5_248
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 160
+        width: 76
+        height: 52
+      alignment: 9
+      pivot: {x: 0.51549745, y: 0.1627961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Simple 5_338
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 160
+        width: 76
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5374141, y: 0.20784152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

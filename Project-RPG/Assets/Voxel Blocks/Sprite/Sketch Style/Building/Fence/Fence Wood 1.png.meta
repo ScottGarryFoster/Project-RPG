@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: ee0cf1fc3626f3749898665435a93329
+timeCreated: 1491738084
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fence Wood 1_45
+    21300002: Fence Wood 1_135
+    21300004: Fence Wood 1_225
+    21300006: Fence Wood 1_315
+    21300008: Fence Wood 1_0
+    21300010: Fence Wood 1_90
+    21300012: Fence Wood 1_180
+    21300014: Fence Wood 1_270
+    21300016: Fence Wood 1_23
+    21300018: Fence Wood 1_113
+    21300020: Fence Wood 1_203
+    21300022: Fence Wood 1_293
+    21300024: Fence Wood 1_68
+    21300026: Fence Wood 1_158
+    21300028: Fence Wood 1_248
+    21300030: Fence Wood 1_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fence Wood 1_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28414357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Wood 1_135
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.45346794, y: 0.26960146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Wood 1_225
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24939501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Wood 1_315
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.54653203, y: 0.26041925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Wood 1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5307836, y: 0.2774448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Wood 1_90
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 77
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.46268657, y: 0.28375703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Wood 1_180
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 77
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.46921638, y: 0.23783435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Wood 1_270
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 77
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.53731346, y: 0.25119397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Wood 1_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 153
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5175775, y: 0.27963164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Wood 1_113
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 153
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.45245558, y: 0.28014278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Wood 1_203
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 153
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4821561, y: 0.2538868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Wood 1_293
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 153
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5475444, y: 0.25584653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Wood 1_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 229
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.48083872, y: 0.2862821}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Wood 1_158
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 229
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.45692107, y: 0.2624124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Wood 1_248
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 229
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5191612, y: 0.24972989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Wood 1_338
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 229
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.54307896, y: 0.27072668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

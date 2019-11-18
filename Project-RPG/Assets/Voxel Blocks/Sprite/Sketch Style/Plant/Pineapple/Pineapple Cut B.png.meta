@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 5418d1d650d09304d9156cf5117dc341
+timeCreated: 1491738046
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pineapple Cut B_45
+    21300002: Pineapple Cut B_135
+    21300004: Pineapple Cut B_225
+    21300006: Pineapple Cut B_315
+    21300008: Pineapple Cut B_0
+    21300010: Pineapple Cut B_90
+    21300012: Pineapple Cut B_180
+    21300014: Pineapple Cut B_270
+    21300016: Pineapple Cut B_23
+    21300018: Pineapple Cut B_113
+    21300020: Pineapple Cut B_203
+    21300022: Pineapple Cut B_293
+    21300024: Pineapple Cut B_68
+    21300026: Pineapple Cut B_158
+    21300028: Pineapple Cut B_248
+    21300030: Pineapple Cut B_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pineapple Cut B_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 36
+        height: 81
+      alignment: 9
+      pivot: {x: 0.59567904, y: 0.1369311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_135
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1
+        width: 36
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.15634672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_225
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 36
+        height: 81
+      alignment: 9
+      pivot: {x: 0.40432099, y: 0.09341649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_315
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1
+        width: 36
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5909091, y: 0.04332129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 36
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5601852, y: 0.09363619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_90
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 83
+        width: 36
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4398148, y: 0.14955747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_180
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 83
+        width: 36
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4398148, y: 0.11926178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_270
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 83
+        width: 36
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5601852, y: 0.06368472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 165
+        width: 36
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5894951, y: 0.12451096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_113
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 165
+        width: 36
+        height: 81
+      alignment: 9
+      pivot: {x: 0.41238993, y: 0.16039412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_203
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 165
+        width: 36
+        height: 81
+      alignment: 9
+      pivot: {x: 0.41050482, y: 0.1083655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_293
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 165
+        width: 36
+        height: 81
+      alignment: 9
+      pivot: {x: 0.58761007, y: 0.04959911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 247
+        width: 36
+        height: 81
+      alignment: 9
+      pivot: {x: 0.515355, y: 0.14823307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_158
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 247
+        width: 36
+        height: 81
+      alignment: 9
+      pivot: {x: 0.41238996, y: 0.14390393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_248
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 247
+        width: 36
+        height: 81
+      alignment: 9
+      pivot: {x: 0.484645, y: 0.08500811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Pineapple Cut B_338
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 247
+        width: 36
+        height: 81
+      alignment: 9
+      pivot: {x: 0.58761007, y: 0.06598716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

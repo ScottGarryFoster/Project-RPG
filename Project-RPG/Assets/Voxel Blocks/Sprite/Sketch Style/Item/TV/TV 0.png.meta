@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 72fbabb91ff20514c95ec2fad763331f
+timeCreated: 1491738055
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TV 0_45
+    21300002: TV 0_135
+    21300004: TV 0_225
+    21300006: TV 0_315
+    21300008: TV 0_0
+    21300010: TV 0_90
+    21300012: TV 0_180
+    21300014: TV 0_270
+    21300016: TV 0_23
+    21300018: TV 0_113
+    21300020: TV 0_203
+    21300022: TV 0_293
+    21300024: TV 0_68
+    21300026: TV 0_158
+    21300028: TV 0_248
+    21300030: TV 0_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TV 0_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 68
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4772727, y: 0.28617707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 0_135
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1
+        width: 68
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4328209, y: 0.24403535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 0_225
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1
+        width: 68
+        height: 83
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.23434436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 0_315
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1
+        width: 68
+        height: 83
+      alignment: 9
+      pivot: {x: 0.56717914, y: 0.253826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 0_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 85
+        width: 68
+        height: 83
+      alignment: 9
+      pivot: {x: 0.53063726, y: 0.27136338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 0_90
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 85
+        width: 68
+        height: 83
+      alignment: 9
+      pivot: {x: 0.46936277, y: 0.22822216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 0_180
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 85
+        width: 68
+        height: 83
+      alignment: 9
+      pivot: {x: 0.46936277, y: 0.24171309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 0_270
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 85
+        width: 68
+        height: 83
+      alignment: 9
+      pivot: {x: 0.53063726, y: 0.19871673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 0_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 169
+        width: 68
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5051582, y: 0.2955198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 0_113
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 169
+        width: 68
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4458634, y: 0.24181597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 0_203
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 169
+        width: 68
+        height: 83
+      alignment: 9
+      pivot: {x: 0.49484187, y: 0.25134847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 0_293
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 169
+        width: 68
+        height: 83
+      alignment: 9
+      pivot: {x: 0.55496943, y: 0.23128825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 0_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 253
+        width: 68
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4699362, y: 0.2643962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 0_158
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 253
+        width: 68
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4450305, y: 0.24662991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 0_248
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 253
+        width: 68
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5300638, y: 0.22042422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: TV 0_338
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 253
+        width: 68
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5541366, y: 0.27129775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 8c35c85d597732546b35d60692b1e831
+timeCreated: 1491738061
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Table Household 2_45
+    21300002: Table Household 2_135
+    21300004: Table Household 2_225
+    21300006: Table Household 2_315
+    21300008: Table Household 2_0
+    21300010: Table Household 2_90
+    21300012: Table Household 2_180
+    21300014: Table Household 2_270
+    21300016: Table Household 2_23
+    21300018: Table Household 2_113
+    21300020: Table Household 2_203
+    21300022: Table Household 2_293
+    21300024: Table Household 2_68
+    21300026: Table Household 2_158
+    21300028: Table Household 2_248
+    21300030: Table Household 2_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Table Household 2_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40437946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 2_135
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.37926778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 2_225
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.352729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 2_315
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: 0.537037, y: 0.3792678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5255732, y: 0.3852687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 2_90
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 69
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4744268, y: 0.3852687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 2_180
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 69
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4744268, y: 0.34790143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 2_270
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 69
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5255732, y: 0.34790143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 2_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 137
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5145498, y: 0.39817795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 2_113
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 137
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4648736, y: 0.38388255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 2_203
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 137
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: 0.48545015, y: 0.34937045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 2_293
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 137
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: 0.534676, y: 0.36366588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 2_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 205
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: 0.48545015, y: 0.39817798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 2_158
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 205
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4653239, y: 0.36366582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 2_248
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 205
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5145498, y: 0.34937048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Table Household 2_338
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 205
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: 0.53512645, y: 0.38388258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

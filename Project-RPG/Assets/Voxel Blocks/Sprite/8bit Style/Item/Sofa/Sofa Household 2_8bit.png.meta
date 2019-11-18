@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 1bc9c91ac86333345be09ee87bfdd3b5
+timeCreated: 1491737879
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sofa Household 2_8bit_45
+    21300002: Sofa Household 2_8bit_135
+    21300004: Sofa Household 2_8bit_225
+    21300006: Sofa Household 2_8bit_315
+    21300008: Sofa Household 2_8bit_0
+    21300010: Sofa Household 2_8bit_90
+    21300012: Sofa Household 2_8bit_180
+    21300014: Sofa Household 2_8bit_270
+    21300016: Sofa Household 2_8bit_23
+    21300018: Sofa Household 2_8bit_113
+    21300020: Sofa Household 2_8bit_203
+    21300022: Sofa Household 2_8bit_293
+    21300024: Sofa Household 2_8bit_68
+    21300026: Sofa Household 2_8bit_158
+    21300028: Sofa Household 2_8bit_248
+    21300030: Sofa Household 2_8bit_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sofa Household 2_8bit_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.4795454, y: 0.3578381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Household 2_8bit_135
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.4352273, y: 0.36708337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Household 2_8bit_225
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5204545, y: 0.34091264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Household 2_8bit_315
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5647727, y: 0.33235574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Household 2_8bit_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.528125, y: 0.31581843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Household 2_8bit_90
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 21
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.4285735, y: 0.33872482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Household 2_8bit_180
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 21
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.471875, y: 0.3399552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Household 2_8bit_270
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 21
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5714265, y: 0.3028742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Household 2_8bit_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.50464076, y: 0.34813935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Household 2_8bit_113
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 41
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.4314829, y: 0.35373688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Household 2_8bit_203
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 41
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.49559125, y: 0.337503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Household 2_8bit_293
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 41
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5685171, y: 0.31588578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Household 2_8bit_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 61
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.45499426, y: 0.35731167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Household 2_8bit_158
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 61
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.45301652, y: 0.35254008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Household 2_8bit_248
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 61
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.54500574, y: 0.32965553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Sofa Household 2_8bit_338
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 61
+        width: 20
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5494563, y: 0.33435076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

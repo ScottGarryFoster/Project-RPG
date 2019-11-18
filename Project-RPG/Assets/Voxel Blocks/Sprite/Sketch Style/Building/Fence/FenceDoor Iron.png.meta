@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 7111e4a8478c6934184ddb2c2998841d
+timeCreated: 1491738055
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FenceDoor Iron_45
+    21300002: FenceDoor Iron_135
+    21300004: FenceDoor Iron_225
+    21300006: FenceDoor Iron_315
+    21300008: FenceDoor Iron_0
+    21300010: FenceDoor Iron_90
+    21300012: FenceDoor Iron_180
+    21300014: FenceDoor Iron_270
+    21300016: FenceDoor Iron_23
+    21300018: FenceDoor Iron_113
+    21300020: FenceDoor Iron_203
+    21300022: FenceDoor Iron_293
+    21300024: FenceDoor Iron_68
+    21300026: FenceDoor Iron_158
+    21300028: FenceDoor Iron_248
+    21300030: FenceDoor Iron_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FenceDoor Iron_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19600758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Iron_135
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: 0.25925925, y: 0.13591959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Iron_225
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06257632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Iron_315
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7407407, y: 0.13591959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Iron_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6296297, y: 0.19027187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Iron_90
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 35
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.19411078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Iron_180
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 35
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3703704, y: 0.10842944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Iron_270
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 35
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.11328274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Iron_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5976311, y: 0.19327883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Iron_113
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 69
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: 0.22069532, y: 0.16112997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Iron_203
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 69
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: 0.40779287, y: 0.08291458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Iron_293
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 69
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7793047, y: 0.115439355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Iron_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3932076, y: 0.19343811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Iron_158
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 103
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: 0.2773923, y: 0.11523953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Iron_248
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 103
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6156918, y: 0.083131194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Iron_338
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 103
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: 0.72260773, y: 0.14965235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

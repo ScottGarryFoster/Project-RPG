@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 37404c3406c5feb4c9ffbaecd6415455
+timeCreated: 1491738041
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FenceDoor Stone_45
+    21300002: FenceDoor Stone_135
+    21300004: FenceDoor Stone_225
+    21300006: FenceDoor Stone_315
+    21300008: FenceDoor Stone_0
+    21300010: FenceDoor Stone_90
+    21300012: FenceDoor Stone_180
+    21300014: FenceDoor Stone_270
+    21300016: FenceDoor Stone_23
+    21300018: FenceDoor Stone_113
+    21300020: FenceDoor Stone_203
+    21300022: FenceDoor Stone_293
+    21300024: FenceDoor Stone_68
+    21300026: FenceDoor Stone_158
+    21300028: FenceDoor Stone_248
+    21300030: FenceDoor Stone_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FenceDoor Stone_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24920624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_135
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.37356323, y: 0.19963361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_225
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15006101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_315
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.62643677, y: 0.19963363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.57471263, y: 0.23792234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_90
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 41
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.39655173, y: 0.24765387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_180
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 41
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.42528734, y: 0.16867107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_270
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 41
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6034483, y: 0.18097402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.54713225, y: 0.24203146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_113
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 81
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.36502707, y: 0.22538814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_203
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 81
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.45286778, y: 0.14920938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_293
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 81
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6349729, y: 0.1883616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 121
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.44080377, y: 0.25156987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_158
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 121
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.38214886, y: 0.17639634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_248
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 121
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5591963, y: 0.16217986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: FenceDoor Stone_338
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 121
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6137873, y: 0.21484451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

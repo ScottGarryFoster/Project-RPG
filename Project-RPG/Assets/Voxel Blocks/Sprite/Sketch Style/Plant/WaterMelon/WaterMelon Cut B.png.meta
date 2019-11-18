@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 162989aaaa1a1c6498d376f42a563bc7
+timeCreated: 1491738034
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WaterMelon Cut B_45
+    21300002: WaterMelon Cut B_135
+    21300004: WaterMelon Cut B_225
+    21300006: WaterMelon Cut B_315
+    21300008: WaterMelon Cut B_0
+    21300010: WaterMelon Cut B_90
+    21300012: WaterMelon Cut B_180
+    21300014: WaterMelon Cut B_270
+    21300016: WaterMelon Cut B_23
+    21300018: WaterMelon Cut B_113
+    21300020: WaterMelon Cut B_203
+    21300022: WaterMelon Cut B_293
+    21300024: WaterMelon Cut B_68
+    21300026: WaterMelon Cut B_158
+    21300028: WaterMelon Cut B_248
+    21300030: WaterMelon Cut B_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterMelon Cut B_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 45
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06464404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut B_135
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1
+        width: 45
+        height: 73
+      alignment: 9
+      pivot: {x: 0.53636366, y: 0.13336107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut B_225
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1
+        width: 45
+        height: 73
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.18798974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut B_315
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1
+        width: 45
+        height: 73
+      alignment: 9
+      pivot: {x: 0.46363634, y: 0.13336107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut B_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 45
+        height: 73
+      alignment: 9
+      pivot: {x: 0.54761904, y: 0.119509414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut B_90
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 75
+        width: 45
+        height: 73
+      alignment: 9
+      pivot: {x: 0.45277777, y: 0.1167781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut B_180
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 75
+        width: 45
+        height: 73
+      alignment: 9
+      pivot: {x: 0.45238099, y: 0.15847062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut B_270
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 75
+        width: 45
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5472222, y: 0.15616998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut B_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 149
+        width: 45
+        height: 73
+      alignment: 9
+      pivot: {x: 0.52761424, y: 0.09485584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut B_113
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 149
+        width: 45
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5119098, y: 0.12469779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut B_203
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 149
+        width: 45
+        height: 73
+      alignment: 9
+      pivot: {x: 0.47172832, y: 0.1734916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut B_293
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 149
+        width: 45
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48809022, y: 0.14319329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut B_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 45
+        height: 73
+      alignment: 9
+      pivot: {x: 0.472687, y: 0.09281557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut B_158
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 223
+        width: 45
+        height: 73
+      alignment: 9
+      pivot: {x: 0.51210207, y: 0.14492019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut B_248
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 223
+        width: 45
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5279337, y: 0.17653526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: WaterMelon Cut B_338
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 223
+        width: 45
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48789802, y: 0.13170154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

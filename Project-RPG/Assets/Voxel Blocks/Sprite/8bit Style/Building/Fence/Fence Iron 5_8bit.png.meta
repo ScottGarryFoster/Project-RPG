@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 1cb7b6c28e88b0d4faa90bbd46e0211e
+timeCreated: 1491737879
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fence Iron 5_8bit_45
+    21300002: Fence Iron 5_8bit_135
+    21300004: Fence Iron 5_8bit_225
+    21300006: Fence Iron 5_8bit_315
+    21300008: Fence Iron 5_8bit_0
+    21300010: Fence Iron 5_8bit_90
+    21300012: Fence Iron 5_8bit_180
+    21300014: Fence Iron 5_8bit_270
+    21300016: Fence Iron 5_8bit_23
+    21300018: Fence Iron 5_8bit_113
+    21300020: Fence Iron 5_8bit_203
+    21300022: Fence Iron 5_8bit_293
+    21300024: Fence Iron 5_8bit_68
+    21300026: Fence Iron 5_8bit_158
+    21300028: Fence Iron 5_8bit_248
+    21300030: Fence Iron 5_8bit_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fence Iron 5_8bit_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0.7916666, y: 0.37709484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Iron 5_8bit_135
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0.12499999, y: 0.35398448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Iron 5_8bit_225
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0.20833334, y: 0.06801403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Iron 5_8bit_315
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0.87499994, y: 0.10235634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Iron 5_8bit_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0.9074074, y: 0.22406873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Iron 5_8bit_90
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 17
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0.41666082, y: 0.41787407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Iron 5_8bit_180
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 17
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0.09259259, y: 0.1711332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Iron 5_8bit_270
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 17
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0.604174, y: 0.034243498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Iron 5_8bit_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0.90289, y: 0.30854023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Iron 5_8bit_113
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 33
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0.2632228, y: 0.39293593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Iron 5_8bit_203
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 33
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0.097109936, y: 0.13392542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Iron 5_8bit_293
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 33
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0.7367772, y: 0.08295945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Iron 5_8bit_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0.62699825, y: 0.41148844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Iron 5_8bit_158
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 49
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0.09035194, y: 0.27937472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Iron 5_8bit_248
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 49
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0.35485914, y: 0.06564377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Fence Iron 5_8bit_338
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 49
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0.90964806, y: 0.15097018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

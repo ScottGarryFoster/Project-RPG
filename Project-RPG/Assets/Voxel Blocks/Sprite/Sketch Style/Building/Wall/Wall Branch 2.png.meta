@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: ed22abf63a6080043ae467233225dd97
+timeCreated: 1491738083
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wall Branch 2_45
+    21300002: Wall Branch 2_135
+    21300004: Wall Branch 2_225
+    21300006: Wall Branch 2_315
+    21300008: Wall Branch 2_0
+    21300010: Wall Branch 2_90
+    21300012: Wall Branch 2_180
+    21300014: Wall Branch 2_270
+    21300016: Wall Branch 2_23
+    21300018: Wall Branch 2_113
+    21300020: Wall Branch 2_203
+    21300022: Wall Branch 2_293
+    21300024: Wall Branch 2_68
+    21300026: Wall Branch 2_158
+    21300028: Wall Branch 2_248
+    21300030: Wall Branch 2_338
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wall Branch 2_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 87
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2864907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Wall Branch 2_135
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1
+        width: 87
+        height: 98
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0.2665324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Wall Branch 2_225
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1
+        width: 87
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24877526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Wall Branch 2_315
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1
+        width: 87
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.2665324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Wall Branch 2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 87
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5237069, y: 0.2719072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Wall Branch 2_90
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 100
+        width: 87
+        height: 98
+      alignment: 9
+      pivot: {x: 0.47629312, y: 0.2719072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Wall Branch 2_180
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 100
+        width: 87
+        height: 98
+      alignment: 9
+      pivot: {x: 0.47629312, y: 0.24714445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Wall Branch 2_270
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 100
+        width: 87
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5237069, y: 0.24714443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Wall Branch 2_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 199
+        width: 87
+        height: 98
+      alignment: 9
+      pivot: {x: 0.51353896, y: 0.2828692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Wall Branch 2_113
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 199
+        width: 87
+        height: 98
+      alignment: 9
+      pivot: {x: 0.46769422, y: 0.2733743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Wall Branch 2_203
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 199
+        width: 87
+        height: 98
+      alignment: 9
+      pivot: {x: 0.4866185, y: 0.25045156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Wall Branch 2_293
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 199
+        width: 87
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5323058, y: 0.25994653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Wall Branch 2_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 298
+        width: 87
+        height: 98
+      alignment: 9
+      pivot: {x: 0.48646107, y: 0.2828692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Wall Branch 2_158
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 298
+        width: 87
+        height: 98
+      alignment: 9
+      pivot: {x: 0.46769425, y: 0.2599465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Wall Branch 2_248
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 298
+        width: 87
+        height: 98
+      alignment: 9
+      pivot: {x: 0.51338154, y: 0.2504516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Wall Branch 2_338
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 298
+        width: 87
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5323058, y: 0.27337432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
