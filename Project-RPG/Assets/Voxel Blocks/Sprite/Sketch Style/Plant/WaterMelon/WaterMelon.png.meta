@@ -1,33 +1,66 @@
 fileFormatVersion: 2
 guid: 9fb680066ae9cf14d8ab77cf5587f374
-timeCreated: 1491738066
-licenseType: Store
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: WaterMelon_45
-    21300002: WaterMelon_135
-    21300004: WaterMelon_225
-    21300006: WaterMelon_315
-    21300008: WaterMelon_0
-    21300010: WaterMelon_90
-    21300012: WaterMelon_180
-    21300014: WaterMelon_270
-    21300016: WaterMelon_23
-    21300018: WaterMelon_113
-    21300020: WaterMelon_203
-    21300022: WaterMelon_293
-    21300024: WaterMelon_68
-    21300026: WaterMelon_158
-    21300028: WaterMelon_248
-    21300030: WaterMelon_338
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: WaterMelon_45
+  - first:
+      213: 21300002
+    second: WaterMelon_135
+  - first:
+      213: 21300004
+    second: WaterMelon_225
+  - first:
+      213: 21300006
+    second: WaterMelon_315
+  - first:
+      213: 21300008
+    second: WaterMelon_0
+  - first:
+      213: 21300010
+    second: WaterMelon_90
+  - first:
+      213: 21300012
+    second: WaterMelon_180
+  - first:
+      213: 21300014
+    second: WaterMelon_270
+  - first:
+      213: 21300016
+    second: WaterMelon_23
+  - first:
+      213: 21300018
+    second: WaterMelon_113
+  - first:
+      213: 21300020
+    second: WaterMelon_203
+  - first:
+      213: 21300022
+    second: WaterMelon_293
+  - first:
+      213: 21300024
+    second: WaterMelon_68
+  - first:
+      213: 21300026
+    second: WaterMelon_158
+  - first:
+      213: 21300028
+    second: WaterMelon_248
+  - first:
+      213: 21300030
+    second: WaterMelon_338
+  externalObjects: {}
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -36,33 +69,55 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -3
   maxTextureSize: 8192
   textureSettings:
+    serializedVersion: 2
     filterMode: 0
     aniso: -1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -78,6 +133,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.21374021}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon_135
       rect:
@@ -90,6 +154,15 @@ TextureImporter:
       pivot: {x: 0.46, y: 0.19012591}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon_225
       rect:
@@ -102,6 +175,15 @@ TextureImporter:
       pivot: {x: 0.49999997, y: 0.17355545}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon_315
       rect:
@@ -114,6 +196,15 @@ TextureImporter:
       pivot: {x: 0.53999996, y: 0.19012591}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon_0
       rect:
@@ -126,6 +217,15 @@ TextureImporter:
       pivot: {x: 0.5271382, y: 0.20727333}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon_90
       rect:
@@ -138,6 +238,15 @@ TextureImporter:
       pivot: {x: 0.47286186, y: 0.2123761}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon_180
       rect:
@@ -150,6 +259,15 @@ TextureImporter:
       pivot: {x: 0.47286186, y: 0.18035725}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon_270
       rect:
@@ -162,6 +280,15 @@ TextureImporter:
       pivot: {x: 0.5271382, y: 0.18035723}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon_23
       rect:
@@ -174,6 +301,15 @@ TextureImporter:
       pivot: {x: 0.5154974, y: 0.2153769}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon_113
       rect:
@@ -186,6 +322,15 @@ TextureImporter:
       pivot: {x: 0.46258596, y: 0.20107156}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon_203
       rect:
@@ -198,6 +343,15 @@ TextureImporter:
       pivot: {x: 0.4845026, y: 0.17840292}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon_293
       rect:
@@ -210,6 +364,15 @@ TextureImporter:
       pivot: {x: 0.5374141, y: 0.18923236}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon_68
       rect:
@@ -222,6 +385,15 @@ TextureImporter:
       pivot: {x: 0.48450258, y: 0.2153769}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon_158
       rect:
@@ -234,6 +406,15 @@ TextureImporter:
       pivot: {x: 0.46258596, y: 0.18923233}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon_248
       rect:
@@ -246,6 +427,15 @@ TextureImporter:
       pivot: {x: 0.51549745, y: 0.17840292}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon_338
       rect:
@@ -258,8 +448,28 @@ TextureImporter:
       pivot: {x: 0.5374141, y: 0.20107158}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,33 +1,66 @@
 fileFormatVersion: 2
 guid: d3bf35f7db597b74cbd881ef0bbadcbb
-timeCreated: 1491738078
-licenseType: Store
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: WaterMelon Cut A_45
-    21300002: WaterMelon Cut A_135
-    21300004: WaterMelon Cut A_225
-    21300006: WaterMelon Cut A_315
-    21300008: WaterMelon Cut A_0
-    21300010: WaterMelon Cut A_90
-    21300012: WaterMelon Cut A_180
-    21300014: WaterMelon Cut A_270
-    21300016: WaterMelon Cut A_23
-    21300018: WaterMelon Cut A_113
-    21300020: WaterMelon Cut A_203
-    21300022: WaterMelon Cut A_293
-    21300024: WaterMelon Cut A_68
-    21300026: WaterMelon Cut A_158
-    21300028: WaterMelon Cut A_248
-    21300030: WaterMelon Cut A_338
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: WaterMelon Cut A_45
+  - first:
+      213: 21300002
+    second: WaterMelon Cut A_135
+  - first:
+      213: 21300004
+    second: WaterMelon Cut A_225
+  - first:
+      213: 21300006
+    second: WaterMelon Cut A_315
+  - first:
+      213: 21300008
+    second: WaterMelon Cut A_0
+  - first:
+      213: 21300010
+    second: WaterMelon Cut A_90
+  - first:
+      213: 21300012
+    second: WaterMelon Cut A_180
+  - first:
+      213: 21300014
+    second: WaterMelon Cut A_270
+  - first:
+      213: 21300016
+    second: WaterMelon Cut A_23
+  - first:
+      213: 21300018
+    second: WaterMelon Cut A_113
+  - first:
+      213: 21300020
+    second: WaterMelon Cut A_203
+  - first:
+      213: 21300022
+    second: WaterMelon Cut A_293
+  - first:
+      213: 21300024
+    second: WaterMelon Cut A_68
+  - first:
+      213: 21300026
+    second: WaterMelon Cut A_158
+  - first:
+      213: 21300028
+    second: WaterMelon Cut A_248
+  - first:
+      213: 21300030
+    second: WaterMelon Cut A_338
+  externalObjects: {}
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -36,33 +69,55 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -3
   maxTextureSize: 8192
   textureSettings:
+    serializedVersion: 2
     filterMode: 0
     aniso: -1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -78,6 +133,15 @@ TextureImporter:
       pivot: {x: 0.5950226, y: 0.17337644}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon Cut A_135
       rect:
@@ -90,6 +154,15 @@ TextureImporter:
       pivot: {x: 0.4387255, y: 0.22628865}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon Cut A_225
       rect:
@@ -102,6 +175,15 @@ TextureImporter:
       pivot: {x: 0.40497738, y: 0.1272034}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon Cut A_315
       rect:
@@ -114,6 +196,15 @@ TextureImporter:
       pivot: {x: 0.5612745, y: 0.061795805}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon Cut A_0
       rect:
@@ -126,6 +217,15 @@ TextureImporter:
       pivot: {x: 0.54139435, y: 0.13452879}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon Cut A_90
       rect:
@@ -138,6 +238,15 @@ TextureImporter:
       pivot: {x: 0.45833334, y: 0.20593382}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon Cut A_180
       rect:
@@ -150,6 +259,15 @@ TextureImporter:
       pivot: {x: 0.45860565, y: 0.17195202}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon Cut A_270
       rect:
@@ -162,6 +280,15 @@ TextureImporter:
       pivot: {x: 0.5416667, y: 0.10458918}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon Cut A_23
       rect:
@@ -174,6 +301,15 @@ TextureImporter:
       pivot: {x: 0.5944496, y: 0.15797594}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon Cut A_113
       rect:
@@ -186,6 +322,15 @@ TextureImporter:
       pivot: {x: 0.44117647, y: 0.22189038}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon Cut A_203
       rect:
@@ -198,6 +343,15 @@ TextureImporter:
       pivot: {x: 0.40555036, y: 0.14595772}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon Cut A_293
       rect:
@@ -210,6 +364,15 @@ TextureImporter:
       pivot: {x: 0.5588235, y: 0.08210747}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon Cut A_68
       rect:
@@ -222,6 +385,15 @@ TextureImporter:
       pivot: {x: 0.5456699, y: 0.19012459}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon Cut A_158
       rect:
@@ -234,6 +406,15 @@ TextureImporter:
       pivot: {x: 0.44057673, y: 0.20289968}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon Cut A_248
       rect:
@@ -246,6 +427,15 @@ TextureImporter:
       pivot: {x: 0.45433003, y: 0.112336725}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: WaterMelon Cut A_338
       rect:
@@ -258,8 +448,28 @@ TextureImporter:
       pivot: {x: 0.5582581, y: 0.09778547}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 70b8d2e00cfc3b04398917739d73224b
+timeCreated: 1507324852
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: GroundStair.001
+    100002: RectBoard.004
+    100004: SquareBoard.021
+    100006: //RootNode
+    100008: WoodCrete
+    100010: Camera
+    100012: Lamp
+    100014: RectBoard
+    100016: SquareBoard
+    100018: GroundStair
+    400000: GroundStair.001
+    400002: RectBoard.004
+    400004: SquareBoard.021
+    400006: //RootNode
+    400008: WoodCrete
+    400010: Camera
+    400012: Lamp
+    400014: RectBoard
+    400016: SquareBoard
+    400018: GroundStair
+    2000000: Camera
+    2300000: GroundStair.001
+    2300002: RectBoard.004
+    2300004: SquareBoard.021
+    2300006: WoodCrete
+    2300008: RectBoard
+    2300010: SquareBoard
+    2300012: GroundStair
+    3300000: GroundStair.001
+    3300002: RectBoard.004
+    3300004: SquareBoard.021
+    3300006: WoodCrete
+    3300008: RectBoard
+    3300010: SquareBoard
+    3300012: GroundStair
+    4300000: WoodCrete
+    4300002: SquareBoard.021
+    4300004: GroundStair.001
+    4300006: RectBoard.004
+    4300008: RectBoard
+    4300010: SquareBoard
+    4300012: GroundStair
+    10800000: Lamp
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

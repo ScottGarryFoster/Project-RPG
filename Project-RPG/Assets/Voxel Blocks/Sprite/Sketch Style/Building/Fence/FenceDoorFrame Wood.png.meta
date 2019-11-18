@@ -1,33 +1,66 @@
 fileFormatVersion: 2
 guid: 68127cbe3fb9ceb4ba6d7267675f5591
-timeCreated: 1491738052
-licenseType: Store
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: FenceDoorFrame Wood_45
-    21300002: FenceDoorFrame Wood_135
-    21300004: FenceDoorFrame Wood_225
-    21300006: FenceDoorFrame Wood_315
-    21300008: FenceDoorFrame Wood_0
-    21300010: FenceDoorFrame Wood_90
-    21300012: FenceDoorFrame Wood_180
-    21300014: FenceDoorFrame Wood_270
-    21300016: FenceDoorFrame Wood_23
-    21300018: FenceDoorFrame Wood_113
-    21300020: FenceDoorFrame Wood_203
-    21300022: FenceDoorFrame Wood_293
-    21300024: FenceDoorFrame Wood_68
-    21300026: FenceDoorFrame Wood_158
-    21300028: FenceDoorFrame Wood_248
-    21300030: FenceDoorFrame Wood_338
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: FenceDoorFrame Wood_45
+  - first:
+      213: 21300002
+    second: FenceDoorFrame Wood_135
+  - first:
+      213: 21300004
+    second: FenceDoorFrame Wood_225
+  - first:
+      213: 21300006
+    second: FenceDoorFrame Wood_315
+  - first:
+      213: 21300008
+    second: FenceDoorFrame Wood_0
+  - first:
+      213: 21300010
+    second: FenceDoorFrame Wood_90
+  - first:
+      213: 21300012
+    second: FenceDoorFrame Wood_180
+  - first:
+      213: 21300014
+    second: FenceDoorFrame Wood_270
+  - first:
+      213: 21300016
+    second: FenceDoorFrame Wood_23
+  - first:
+      213: 21300018
+    second: FenceDoorFrame Wood_113
+  - first:
+      213: 21300020
+    second: FenceDoorFrame Wood_203
+  - first:
+      213: 21300022
+    second: FenceDoorFrame Wood_293
+  - first:
+      213: 21300024
+    second: FenceDoorFrame Wood_68
+  - first:
+      213: 21300026
+    second: FenceDoorFrame Wood_158
+  - first:
+      213: 21300028
+    second: FenceDoorFrame Wood_248
+  - first:
+      213: 21300030
+    second: FenceDoorFrame Wood_338
+  externalObjects: {}
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -36,33 +69,55 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -3
   maxTextureSize: 8192
   textureSettings:
+    serializedVersion: 2
     filterMode: 0
     aniso: -1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -78,6 +133,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.3093122}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: FenceDoorFrame Wood_135
       rect:
@@ -90,6 +154,15 @@ TextureImporter:
       pivot: {x: 0.45346794, y: 0.2950258}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: FenceDoorFrame Wood_225
       rect:
@@ -102,6 +175,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.24939501}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: FenceDoorFrame Wood_315
       rect:
@@ -114,6 +196,15 @@ TextureImporter:
       pivot: {x: 0.54653203, y: 0.26041925}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: FenceDoorFrame Wood_0
       rect:
@@ -126,6 +217,15 @@ TextureImporter:
       pivot: {x: 0.5307836, y: 0.2774448}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: FenceDoorFrame Wood_90
       rect:
@@ -138,6 +238,15 @@ TextureImporter:
       pivot: {x: 0.46268657, y: 0.30569288}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: FenceDoorFrame Wood_180
       rect:
@@ -150,6 +259,15 @@ TextureImporter:
       pivot: {x: 0.46921638, y: 0.25757578}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: FenceDoorFrame Wood_270
       rect:
@@ -162,6 +280,15 @@ TextureImporter:
       pivot: {x: 0.53731346, y: 0.25119397}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: FenceDoorFrame Wood_23
       rect:
@@ -174,6 +301,15 @@ TextureImporter:
       pivot: {x: 0.5175775, y: 0.30521655}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: FenceDoorFrame Wood_113
       rect:
@@ -186,6 +322,15 @@ TextureImporter:
       pivot: {x: 0.45245558, y: 0.30216268}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: FenceDoorFrame Wood_203
       rect:
@@ -198,6 +343,15 @@ TextureImporter:
       pivot: {x: 0.4821561, y: 0.2538868}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: FenceDoorFrame Wood_293
       rect:
@@ -210,6 +364,15 @@ TextureImporter:
       pivot: {x: 0.5475444, y: 0.25584653}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: FenceDoorFrame Wood_68
       rect:
@@ -222,6 +385,15 @@ TextureImporter:
       pivot: {x: 0.48083872, y: 0.3083794}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: FenceDoorFrame Wood_158
       rect:
@@ -234,6 +406,15 @@ TextureImporter:
       pivot: {x: 0.45692107, y: 0.2882291}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: FenceDoorFrame Wood_248
       rect:
@@ -246,6 +427,15 @@ TextureImporter:
       pivot: {x: 0.5191612, y: 0.24972989}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: FenceDoorFrame Wood_338
       rect:
@@ -258,8 +448,28 @@ TextureImporter:
       pivot: {x: 0.54307896, y: 0.27072668}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
