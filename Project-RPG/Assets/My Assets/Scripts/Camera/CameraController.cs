@@ -24,12 +24,8 @@ public class CameraController : MonoBehaviour
 
     void OnTriggerStay(Collider other)
     {
-        Debug.Log(other.gameObject.name);
+        //Debug.Log(other.gameObject.name);
         if (other.gameObject.tag == "Floor")
-            inputCO.SimulateMouse(0, -0.1f);
-                //transform.Rotate(Vector3.up, -1 * Time.deltaTime);
-                //cameraOrbit.transform.rotation = Quaternion.Euler(0, 0, cameraOrbit.transform.rotation.z + 1f);
-
-            //cameraOrbit.transform.position = new Vector3(cameraOrbit.transform.position.x, cameraOrbit.transform.position.y + 0.1f, cameraOrbit.transform.position.z);
+            inputCO.SimulateMouse(0, -0.1f);//Simulates the mouse / camera moving up
     }
 }

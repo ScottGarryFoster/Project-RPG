@@ -60,7 +60,7 @@ public class InputCameraOrbit : MonoBehaviour
 
     bool CanSeePlayer()
     {
-        if (CastRay(0.5f, 0.5f, true)) return true;
+        if (CastRay(0.5f, 0.5f)) return true;
         for(int i = 0; i < 5; i++)
         {
             Vector2 v2 = new Vector2(0.45f + (1 - i), 0.45f + (1 - i));
