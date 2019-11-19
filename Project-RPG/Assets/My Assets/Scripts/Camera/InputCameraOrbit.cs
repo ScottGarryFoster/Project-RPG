@@ -60,7 +60,7 @@ public class InputCameraOrbit : MonoBehaviour
 
     bool CanSeePlayer()
     {
-        if (CastRay(0.5f, 0.5f)) return true;
+        if (CastRay(0.5f, 0.5f, true)) return true;
         for(int i = 0; i < 5; i++)
         {
             Vector2 v2 = new Vector2(0.45f + (1 - i), 0.45f + (1 - i));
@@ -89,9 +89,6 @@ public class InputCameraOrbit : MonoBehaviour
     {
         RaycastHit hit;
         Ray ray = cam.ViewportPointToRay(new Vector3(x, y, 0.5f));
-        if(debug)
-            Debug.DrawRay(ray.origin, ray.direction * 10, Color.yellow);
-
         if (Physics.Raycast(ray, out hit))
         {
             Transform objectHit = hit.transform;
@@ -99,9 +96,7 @@ public class InputCameraOrbit : MonoBehaviour
             if (debug)
                 Debug.Log("Hit: objectHit:" + objectHit.gameObject.name);
 
-            if (objectHit.name == player.name) return true;
-            
-            // Do something with the object that was hit by the raycast.
+            if (hit.transform.gameObject.tag == "Player") return true;
         }
         return false;
     }
