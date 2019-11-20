@@ -704,6 +704,11 @@ namespace Voruko
 		{
 			weapon.gameObject.SetActive(value != 0);
 		}
+
+        public GameObject getWeapon()
+        {
+            return weapon.gameObject;
+        }
 		#endregion
 	}
 }

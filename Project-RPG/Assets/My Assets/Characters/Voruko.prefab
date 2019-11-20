@@ -1287,6 +1287,7 @@ GameObject:
   - component: {fileID: 8256820901068706328}
   - component: {fileID: 8230350041537729018}
   - component: {fileID: 8240819185240595478}
+  - component: {fileID: 2006953583707849046}
   - component: {fileID: 8240751323842343844}
   - component: {fileID: 1124149280}
   m_Layer: 0
@@ -1379,6 +1380,18 @@ MonoBehaviour:
   _KnockBackRotationBlend: 0.5
   _MinRollDodgeSpeed: 0.5
   _RollDodgeFactor: 1
+--- !u!114 &2006953583707849046
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8342603149613342520}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73aecb4db8a42774f838233b7482c978, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &8240751323842343844
 MonoBehaviour:
   m_ObjectHideFlags: 0
