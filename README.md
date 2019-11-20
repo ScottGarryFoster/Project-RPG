@@ -33,8 +33,8 @@ The pack I have is all voxel however putting down a lot of blocks in the world m
 ## Goals
 My goal is to create as many RPG like elements as I can, see what I can implement and what I can't and then come up with a game design using these elements and elements I know I can create from mechanics already created.
 ## Asset Packs used
-2D PixelArt - Isometric Blocks by Devil's Work.shop - [Found Here](https://assetstore.unity.com/detail/3d/environments/2d-pixelart-isometric-blocks-115039)
-Voxel Character Voruko by SoulFission - [Found Here](https://assetstore.unity.com/detail/3d/characters/voxel-character-voruko-103046)
- Voxel Blocks by Moenen - [Found here](https://assetstore.unity.com/detail/3d/environments/voxel-blocks-87316)
-Moenen Voxel Model Collection - Character by Moenen - [Found here](https://assetstore.unity.com/detail/3d/characters/moenen-voxel-model-collection-character-65979)
-Moenen Voxel Model Collection - Environment by Moenen - [Found here](https://assetstore.unity.com/detail/3d/environments/moenen-voxel-model-collection-environment-65980)
+- 2D PixelArt - Isometric Blocks by Devil's Work.shop - [Found Here](https://assetstore.unity.com/detail/3d/environments/2d-pixelart-isometric-blocks-115039)
+- Voxel Character Voruko by SoulFission - [Found Here](https://assetstore.unity.com/detail/3d/characters/voxel-character-voruko-103046)
+ - Voxel Blocks by Moenen - [Found here](https://assetstore.unity.com/detail/3d/environments/voxel-blocks-87316)
+- Moenen Voxel Model Collection - Character by Moenen - [Found here](https://assetstore.unity.com/detail/3d/characters/moenen-voxel-model-collection-character-65979)
+- Moenen Voxel Model Collection - Environment by Moenen - [Found here](https://assetstore.unity.com/detail/3d/environments/moenen-voxel-model-collection-environment-65980)
