@@ -22,7 +22,7 @@ Scott Foster's Portfolio: [https://ScottGarryFoster.com](https://ScottGarryFoste
 ## Issues with these features
 These will be explained more in issues and no doubt old issues will be removed from this list and remain in the other tab but as an overview:
 ### Camera
-Camera occasionally scrolls in, I've tried ray cast to the player and ray cast from the view port to the centre of the screen. I think this is an issue of vision to the player and the player moving around. I also need to implement something to occasionally return the original camera location to the scrolled level. I am considering not allowing scroll to zoom in general to make this easier.
+~~Camera occasionally scrolls in~~, I've tried ray cast to the player and ray cast from the view port to the centre of the screen. I think this is an issue of vision to the player and the player moving around. I also need to implement something to occasionally return the original camera location to the scrolled level. I am considering not allowing scroll to zoom in general to make this easier. I've changed the method to cast all and then do filtering on the C# side and the camera is much better.
 ### Animal AI
 The AI is good however it will get stuck in buildings. I need to implement a collider for "don't go in here" meaning around buildings and the like I'll have to add no go areas. The better solution would be to ray cast and see if the route goes through any objects. I'm going to try the second. Now the second might allow the animal to go inside a building with an open door so it is not a complete solution.
 ### Interactable Doors
