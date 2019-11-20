@@ -35,8 +35,6 @@ public class InputCameraOrbit : MonoBehaviour
             scrollAmount += scrollFactor;
 
         cameraOrbit.transform.localScale = originalScale;
-        //else
-        //    seePlayerZoom = 0;
 
         if (scrollAmount != 0 || seePlayerZoom != 0)
             cameraOrbit.transform.localScale = cameraOrbit.transform.localScale * (1f - (scrollAmount + seePlayerZoom));
@@ -60,42 +58,9 @@ public class InputCameraOrbit : MonoBehaviour
 
     bool CanSeePlayer()
     {
-        if (CastRay(0.5f, 0.5f)) return true;
-        for(int i = 0; i < 5; i++)
-        {
-            Vector2 v2 = new Vector2(0.45f + (1 - i), 0.45f + (1 - i));
-            if (CastRay(v2.x, v2.y)) return true;
-        }
-        for (int i = 0; i < 5; i++)
-        {
-            Vector2 v2 = new Vector2(0.5f + (1 - i), 0.45f + (1 - i));
-            if (CastRay(v2.x, v2.y)) return true;
-        }
-        for (int i = 0; i < 5; i++)
-        {
-            Vector2 v2 = new Vector2(0.45f + (1 - i), 0.5f + (1 - i));
-            if (CastRay(v2.x, v2.y)) return true;
-        }
-        for (int i = 0; i < 5; i++)
-        {
-            Vector2 v2 = new Vector2(0.5f + (1 - i), 0.5f + (1 - i));
-            if (CastRay(v2.x, v2.y)) return true;
-        }
-        //Debug.Log("CAN NOT SEE PLAYER");
-        return false;
-    }
-
-    bool CastRay(float x, float y, bool debug = false)
-    {
         RaycastHit hit;
-        Ray ray = cam.ViewportPointToRay(new Vector3(x, y, 0.5f));
-        if (Physics.Raycast(ray, out hit))
+        if (Physics.Raycast(cam.transform.position, (player.transform.position - cam.transform.position), out hit, 100))
         {
-            Transform objectHit = hit.transform;
-
-            if (debug)
-                Debug.Log("Hit: objectHit:" + objectHit.gameObject.name);
-
             if (hit.transform.gameObject.tag == "Player") return true;
         }
         return false;
