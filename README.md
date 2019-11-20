@@ -9,8 +9,9 @@ Scott Foster's Portfolio: [https://ScottGarryFoster.com](https://ScottGarryFoste
 - Mouse driven camera which also follows the player. Camera does not get trapped in objects.
 - Basic Animal AI. Cat is implemented to move to a random location within a certain area.
 - Interactable Doors
+- Inventory system for picking up items and equipment. So far you can hold wood and there is the start of a weapon attribute system.
+- Wood gathering from trees. Trees also regenerate.
 ### Planned Implementation
-- Inventory system for picking up items and equipment
 - Equipment and tools switchable for the player and with unique actions
 - Looks for the Player changeable models etc.
 - Enemies passive and aggressive with combat
@@ -38,3 +39,4 @@ My goal is to create as many RPG like elements as I can, see what I can implemen
  - Voxel Blocks by Moenen - [Found here](https://assetstore.unity.com/detail/3d/environments/voxel-blocks-87316)
 - Moenen Voxel Model Collection - Character by Moenen - [Found here](https://assetstore.unity.com/detail/3d/characters/moenen-voxel-model-collection-character-65979)
 - Moenen Voxel Model Collection - Environment by Moenen - [Found here](https://assetstore.unity.com/detail/3d/environments/moenen-voxel-model-collection-environment-65980)
+- Voxel Universe - Trees by Poly Unit [Found here](https://assetstore.unity.com/detail/3d/vegetation/voxel-universe-trees-92015)
