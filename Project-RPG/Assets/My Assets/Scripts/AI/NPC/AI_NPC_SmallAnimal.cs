@@ -9,6 +9,8 @@ public class AI_NPC_SmallAnimal : MonoBehaviour
     public bool FlipForward;
     [Tooltip("If you want to limit the animal to an area drag this here")]
     public Collider AnimalArea;
+    [Tooltip("If you want to tell this AI about other things in Storage drag the object with the storage on it in here")]
+    public GameObject LevelStorage;
 
     //Private
     //Links to Components
@@ -25,6 +27,7 @@ public class AI_NPC_SmallAnimal : MonoBehaviour
 
     //Behaviour Storage
     private Vector2 m_v2MoveToLocation;
+    private Storage_BuildingOrNoPass storageBuildingNoPass;
 
     // Start is called before the first frame update
     void Start()
@@ -38,6 +41,9 @@ public class AI_NPC_SmallAnimal : MonoBehaviour
         if (AnimalArea != null)
             if (!AnimalArea.bounds.Contains(transform.position))
                 AnimalArea = null;
+
+        if (LevelStorage != null)
+            storageBuildingNoPass = LevelStorage.GetComponent<Storage_BuildingOrNoPass>();
     }
 
     // Update is called once per frame
@@ -84,7 +90,7 @@ public class AI_NPC_SmallAnimal : MonoBehaviour
             while(true)
             {
                 m_v2MoveToLocation = new Vector2(l_v2CurrentPosition.x + Random.Range(-10.0f, 10.0f), l_v2CurrentPosition.y + Random.Range(-10.0f, 10.0f));//Find a random location to move to
-                if (AnimalArea.bounds.Contains(m_v2MoveToLocation))
+                if (VaildatePoint(m_v2MoveToLocation))
                     break;
             }
         }
@@ -117,5 +123,30 @@ public class AI_NPC_SmallAnimal : MonoBehaviour
     {
         timeToBeIdle = Random.Range(5.0f, 10.0f);
         currentBehaviour = AI_NPC_SA_Behaviour.Idle;
+    }
+
+    bool VaildatePoint(Vector3 v3Location)
+    {
+        if (!VaildateInAnimalArea(v3Location)) return false;
+        if (VaildateNotInNoGoArea(v3Location)) return false;
+        return true;
+    }
+
+    bool VaildateInAnimalArea(Vector3 v3Location)
+    {
+        if (AnimalArea.bounds.Contains(v3Location))
+            return true;
+        return false;
+    }
+
+    bool VaildateNotInNoGoArea(Vector3 v3Location)
+    {
+        if (storageBuildingNoPass == null) return false;
+        for(int i = 0; i < storageBuildingNoPass.OutsideBuildings.Length; i++)
+        {
+            if (storageBuildingNoPass.OutsideBuildings[i].bounds.Contains(v3Location))
+                return true;
+        }
+        return false;
     }
 }

@@ -7,6 +7,7 @@ TagManager:
   - Weapon
   - Enemy
   - Floor
+  - PlayerCameraIgnore
   layers:
   - Default
   - TransparentFX
@@ -16,8 +17,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - PlayerIgnoreCamera
+  - PlayerCamera
   - 
   - 
   - 

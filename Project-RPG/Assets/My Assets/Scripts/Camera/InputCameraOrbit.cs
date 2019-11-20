@@ -7,6 +7,7 @@ public class InputCameraOrbit : MonoBehaviour
     public GameObject cameraOrbit;
     public GameObject player;
     public Camera cam;
+    public GameObject player_head;
 
     public float rotateSpeed = 8f;
 
@@ -14,10 +15,16 @@ public class InputCameraOrbit : MonoBehaviour
     private float scrollAmount = 0;
     private float seePlayerZoom = 0;
     private float lastPlayerSeeRefresh = 0;
+    private Renderer playerRenderer;
+
+    private WillRenderPlayer willRenderPlayer;
 
     void Start()
     {
         originalScale = cameraOrbit.transform.localScale;
+
+        playerRenderer = player_head.GetComponent<Renderer>();
+        willRenderPlayer = player_head.GetComponent<WillRenderPlayer>();
     }
 
     void Update()
@@ -46,6 +53,8 @@ public class InputCameraOrbit : MonoBehaviour
                 seePlayerZoom += 0.1f;
             }
         }
+        //if (Input.GetKeyUp("f"))
+        //    CanSeePlayer();
     }
 
     public void SimulateMouse(float h, float v)
@@ -58,10 +67,27 @@ public class InputCameraOrbit : MonoBehaviour
 
     bool CanSeePlayer()
     {
-        RaycastHit hit;
-        if (Physics.Raycast(cam.transform.position, (player.transform.position - cam.transform.position), out hit, 100))
+        int layerMask = 1 << 2;// Bit shift the index of the layer (8) to get a bit mask
+                               // This would cast rays only against colliders in layer 8.
+        // But instead we want to collide against everything except layer 8. The ~ operator does this, it inverts a bitmask.
+        layerMask = ~layerMask;
+        RaycastHit[] hits;
+        hits = Physics.RaycastAll(cam.transform.position, (player.transform.position - cam.transform.position), 100, layerMask, QueryTriggerInteraction.Collide);
+
+        for (int i = 0; i < hits.Length; i++)
         {
+            RaycastHit hit = hits[i];
+            //Debug.Log("i: " + i + " Name: " + hit.transform.gameObject.name + " Tag: " + hit.transform.gameObject.tag);
+            switch(hit.transform.gameObject.tag)
+            {
+                case "PlayerCameraIgnore":
+                case "MainCamera":
+                case "Weapon":
+                    continue;
+            }
             if (hit.transform.gameObject.tag == "Player") return true;
+            if (hit.collider.isTrigger) continue;
+            return false;
         }
         return false;
     }
