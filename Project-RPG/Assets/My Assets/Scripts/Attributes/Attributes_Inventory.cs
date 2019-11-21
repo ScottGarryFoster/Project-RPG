@@ -4,9 +4,10 @@ using UnityEngine;
 
 public class Attributes_Inventory : MonoBehaviour
 {
+    public Storage_Inventory StorageInventory;
+
     private int QuanOakWood; //How much Oak wood do you have
     private bool SeenOakWood = false;//Detects if we've ever seen wood in this scene.
-
     // Start is called before the first frame update
     void Start()
     {
@@ -31,7 +32,7 @@ public class Attributes_Inventory : MonoBehaviour
     public bool giveOakWood(int number)
     {
         SeenOakWood = true;
-        QuanOakWood += number;
+        if (StorageInventory != null) StorageInventory.pickupItem(0, number);
         return false;
     }
 }

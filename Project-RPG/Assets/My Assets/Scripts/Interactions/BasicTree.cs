@@ -12,6 +12,8 @@ public class BasicTree : MonoBehaviour
     public GameObject Tree;
     [Tooltip("Drag the stump when grown in here")]
     public GameObject Stump;
+    [Tooltip("Link a particle to play when chopping and it'll play every chop")]
+    public ParticleSystem ChopParticle;
 
     [Header("Meta Data")]
     [Tooltip("How quickly should we heal (in seconds)")]
@@ -81,6 +83,7 @@ public class BasicTree : MonoBehaviour
         if (weaponAtt == null) return;
         Health -= 1;
         playerInventory.giveOakWood(Random.Range(1, 3));
+        if (ChopParticle != null) ChopParticle.Play();
         Debug.Log("Yh");
         if (Health == 0) CurrentState = true;
     }
