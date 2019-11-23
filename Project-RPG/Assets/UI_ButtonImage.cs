@@ -23,6 +23,8 @@ public class UI_ButtonImage : MonoBehaviour
     public Rect RectMouseClick;
     [Tooltip("How long after a click should the clicked version be shown.")]
     public float MouseClickCooldownTimer = 0.15f;
+    [Tooltip("Use unscaled time")]
+    public bool UnscaledTime = false;
 
 
     private RawImage rawImage;
@@ -47,7 +49,11 @@ public class UI_ButtonImage : MonoBehaviour
         if (MouseClickCooldown > 0)
         {
             rawImage.uvRect = RectMouseClick;
-            MouseClickCooldown -= Time.deltaTime;
+            if (!UnscaledTime)
+                MouseClickCooldown -= Time.deltaTime;
+            else
+                MouseClickCooldown -= Time.unscaledDeltaTime;
+
             if (MouseClickCooldown <= 0) MouseClickCooldown = 0;
             return;
         }

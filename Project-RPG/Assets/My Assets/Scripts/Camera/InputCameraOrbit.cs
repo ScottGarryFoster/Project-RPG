@@ -4,10 +4,15 @@ using UnityEngine;
 
 public class InputCameraOrbit : MonoBehaviour
 {
+    [Header("Links")]
+    [Tooltip("The camera orbit which should have a sphere collider")]
     public GameObject cameraOrbit;
+    [Tooltip("Drag in the player")]
     public GameObject player;
+    [Tooltip("The camera")]
     public Camera cam;
-    public GameObject player_head;
+    [Tooltip("Input contrl with the pause boolean")]
+    public InputControl _InputControl;
 
     public float rotateSpeed = 8f;
 
@@ -23,12 +28,13 @@ public class InputCameraOrbit : MonoBehaviour
     {
         originalScale = cameraOrbit.transform.localScale;
 
-        playerRenderer = player_head.GetComponent<Renderer>();
-        willRenderPlayer = player_head.GetComponent<WillRenderPlayer>();
     }
 
     void Update()
     {
+        if (_InputControl != null)
+            if (_InputControl.StopInputForUI) return;
+
         if (Input.GetMouseButton(0))
         {
             float h = rotateSpeed * Input.GetAxis("Mouse X");

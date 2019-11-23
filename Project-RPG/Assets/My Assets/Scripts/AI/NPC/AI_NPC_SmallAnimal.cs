@@ -90,7 +90,7 @@ public class AI_NPC_SmallAnimal : MonoBehaviour
             while(true)
             {
                 m_v2MoveToLocation = new Vector2(l_v2CurrentPosition.x + Random.Range(-10.0f, 10.0f), l_v2CurrentPosition.y + Random.Range(-10.0f, 10.0f));//Find a random location to move to
-                if (VaildatePoint(m_v2MoveToLocation))
+                if (VaildatePoint(new Vector3(m_v2MoveToLocation.x, transform.position.y, m_v2MoveToLocation.y)))
                     break;
             }
         }
@@ -112,7 +112,7 @@ public class AI_NPC_SmallAnimal : MonoBehaviour
         rb.MovePosition(transform.position + transform.right * Time.fixedDeltaTime);//Actually Move
 
         // Check if the position of the cube and sphere are approximately equal.
-        if (Vector3.Distance(transform.position, v3_target) < 0.001f)
+        if (Vector3.Distance(transform.position, v3_target) < 0.001f || !VaildatePoint(transform.position))
         {
             CompleteBehaviour();//We're there or close enough
             return;

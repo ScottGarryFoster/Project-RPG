@@ -18,7 +18,12 @@ namespace Voruko
 	[DefaultExecutionOrder(Definations.ExeOrder_moveCtrl)]
 	public class MovementController : MonoBehaviour
 	{
-		#region fields
+        #region fields
+        [Header("Links")]
+        [Tooltip("Drag the Input Control on here for Pause")]
+        public InputControl _InputContol;
+
+        [Header("Other")]
 		[Tooltip("whether keyboard/controller controls this gameobject.")]
 		public bool _IsPlayer = false;
 
@@ -272,8 +277,17 @@ namespace Voruko
 				{
 					if( _IsPlayer )
 					{
-						moveVec = Camera.main.transform.TransformDirection(inputVec);
-					}else 
+						//moveVec = Camera.main.transform.TransformDirection(inputVec);
+                        if(_InputContol != null)
+                            if(_InputContol.CurrentCamera != null)
+                                moveVec = _InputContol.CurrentCamera.transform.TransformDirection(inputVec);
+                            else
+                                moveVec = Camera.main.transform.TransformDirection(inputVec);
+                        else
+                            moveVec = Camera.main.transform.TransformDirection(inputVec);
+
+                    }
+                    else 
 					{
 						moveVec = inputVec;
 					}
