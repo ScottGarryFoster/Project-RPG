@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1427,19 +1427,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7969175611172571277, guid: c2d132d83b358cb47a666a5a0437869f,
         type: 3}
-      propertyPath: m_MotionVectors
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 7969175611172571277, guid: c2d132d83b358cb47a666a5a0437869f,
-        type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: d17231ce8b8b28746a6ab511f545406f, type: 2}
-    - target: {fileID: 7969175611172571277, guid: c2d132d83b358cb47a666a5a0437869f,
-        type: 3}
-      propertyPath: m_DynamicOccludee
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 6908669416678162603, guid: c2d132d83b358cb47a666a5a0437869f,
         type: 3}
       propertyPath: m_Enabled
@@ -3294,7 +3284,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 1
+  m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1

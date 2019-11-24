@@ -1,7 +1,7 @@
 # Project RPG by Scott Foster
 This project is me playing around with Unity and attempting to make something representing a RPG so that I may use these tools and techniques in order to make a completed releasable game. I'm not willing to release a game which is buggy, unfinished or not value for money/time. The project contains a lot of assets from the unity store, I am not an artist I am a programmer.
 
-Current Dev Blog:
+Current Dev Blog: [Dev Log 1](https://www.youtube.com/watch?v=mypxWno0PNk)
 
 Scott Foster's Portfolio: [https://ScottGarryFoster.com](https://ScottGarryFoster.com)
 ## Features
@@ -36,7 +36,8 @@ My goal is to create as many RPG like elements as I can, see what I can implemen
 ## Asset Packs used
 - 2D PixelArt - Isometric Blocks by Devil's Work.shop - [Found Here](https://assetstore.unity.com/detail/3d/environments/2d-pixelart-isometric-blocks-115039)
 - Voxel Character Voruko by SoulFission - [Found Here](https://assetstore.unity.com/detail/3d/characters/voxel-character-voruko-103046)
- - Voxel Blocks by Moenen - [Found here](https://assetstore.unity.com/detail/3d/environments/voxel-blocks-87316)
+- Voxel Blocks by Moenen - [Found here](https://assetstore.unity.com/detail/3d/environments/voxel-blocks-87316)
 - Moenen Voxel Model Collection - Character by Moenen - [Found here](https://assetstore.unity.com/detail/3d/characters/moenen-voxel-model-collection-character-65979)
 - Moenen Voxel Model Collection - Environment by Moenen - [Found here](https://assetstore.unity.com/detail/3d/environments/moenen-voxel-model-collection-environment-65980)
 - Voxel Universe - Trees by Poly Unit [Found here](https://assetstore.unity.com/detail/3d/vegetation/voxel-universe-trees-92015)
+- 7soul’s RPG graphics – UI pack by 7soul - [Found Here](https://www.gamedevmarket.net/asset/7souls-rpg-graphics-pack-2-ui-1208/)
